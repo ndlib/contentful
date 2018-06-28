@@ -1,0 +1,33 @@
+Service: contentful
+
+PreDeploy: preDeploy.py
+
+Stacks:
+  Global:
+    Tags:
+      Name: $SERVICE-$STAGE
+      Owner: WSE
+      Contact: web-and-software-engineering-group@nd.edu
+  Single:
+    - Name: $SERVICE-$STAGE
+      Template: root.yml
+      Tags:
+        Description: contentful space backups
+      Parameters:
+        StageName: $STAGE
+        ServiceName: $SERVICE
+        ServiceStage: $SERVICE-$STAGE
+        TemplateBucket: $DEPLOY_BUCKET
+        TemplateFolder: $DEPLOY_FOLDER
+
+Artifacts:
+  Templates:
+    - root.yml
+    #- bucket.yml
+    - sns.yml
+    - lambda.yml
+  Zips:
+    -
+      Name: source
+      Files:
+        - ../backup
