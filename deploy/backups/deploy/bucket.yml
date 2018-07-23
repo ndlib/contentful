@@ -1,0 +1,18 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: "contentful space backup"
+
+# Outputs:
+#   BackupLogs:
+#     Value: !Sub https://console.aws.amazon.com/cloudwatch/home?region=${AWS::Region}#logStream:group=${BackupLogs}
+
+# Resources:
+#   ContentfulBackupS3Bucket:
+#     Type: AWS::S3::Bucket
+#     DeletionPolicy: Retain
+#     Properties:
+#       BucketName: !Sub contenful-backup-${AWS::AccountId}
+#       LifecycleConfiguration:
+#         Rules:
+#         - Id: RetentionRule
+#           Status: Enabled
+#           ExpirationInDays: '1'

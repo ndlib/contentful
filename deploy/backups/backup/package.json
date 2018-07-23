@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.230.1",
+    "contentful-export": "^7.0.0",
+    "contentful-management": "^5.0.0"
+  }
+}

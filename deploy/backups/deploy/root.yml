@@ -1,0 +1,36 @@
+AWSTemplateFormatVersion: '2010-09-09'
+
+Parameters:
+  StageName:
+    Type: String
+    Description: The name of the stage
+  ServiceName:
+    Type: String
+    Description: The name of the service
+  ServiceStage:
+    Type: String
+    Description: The name of the service-stage
+  TemplateBucket:
+    Type: String
+    Description: Bucket this (and code) is deployed in
+  TemplateFolder:
+    Type: String
+    Description: Location of template files
+
+Resources:
+  SnsStack:
+    Type: AWS::CloudFormation::Stack
+    Properties:
+      TemplateURL:
+        Fn::Sub: https://s3.amazonaws.com/${TemplateBucket}/${TemplateFolder}/sns.yml
+  LambdaStack:
+    Type: AWS::CloudFormation::Stack
+    Properties:
+      TemplateURL:
+        Fn::Sub: https://s3.amazonaws.com/${TemplateBucket}/${TemplateFolder}/lambda.yml
+      Parameters:
+        ServiceName: !Ref ServiceName
+        StageName: !Ref StageName
+        SourceBucket: !Ref TemplateBucket
+        SourceKey: !Sub ${TemplateFolder}/source.zip
+        RoleArn: !ImportValue ContentfulBackupRole

@@ -1,0 +1,64 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: "contentful space backup"
+
+Parameters:
+  ServiceName:
+    Type: String
+    Description: The name of the service
+  StageName:
+    Type: String
+    Description: The name of the stage
+  RoleArn:
+    Type: String
+    Description: Arn of the execution role
+  SourceBucket:
+    Type: String
+    Description: The bucket the code is in
+  SourceKey:
+    Type: String
+    Description: The path to the code zip
+
+Outputs:
+  BackupLogs:
+    Value: !Sub https://console.aws.amazon.com/cloudwatch/home?region=${AWS::Region}#logStream:group=${BackupLogs}
+
+Resources:
+  SpaceBackup:
+    Type: AWS::Lambda::Function
+    Properties:
+      FunctionName: !Sub ${ServiceName}${StageName}-spaceBackup
+      Description: Backup and store contentful space content to S3 bucket
+      Runtime: nodejs8.10
+      Handler: backup/backup.run
+      Timeout: 300
+      Role: !Ref RoleArn
+      MemorySize: 512
+      Code:
+        S3Bucket: !Ref SourceBucket
+        S3Key: !Ref SourceKey
+  BackupCron:
+    DependsOn: SpaceBackup
+    Type: "AWS::Events::Rule"
+    Properties:
+      Description: Triggers backup of contentful spaces
+      # Schedule job for 04:50 am EST(8:50am UTC)
+      ScheduleExpression: "cron(50 8 * * ? *)"
+      Targets:
+        - Arn: !GetAtt SpaceBackup.Arn
+          Id: !Sub ${ServiceName}-contentful-backupCron
+          Input: '{ "backup": { "spaces": ["nb1bvw5cwdnf"] }}'
+          # lambdas have 5 minute runtime! don't overload...
+          #  - prod contentful export takes about 90 seconds
+  BackupPermission:
+    DependsOn: SpaceBackup
+    Type: AWS::Lambda::Permission
+    Properties:
+      FunctionName: !GetAtt SpaceBackup.Arn
+      Action: "lambda:InvokeFunction"
+      Principal: "events.amazonaws.com"
+  BackupLogs:
+    Type: AWS::Logs::LogGroup
+    Properties:
+      LogGroupName: !Sub /aws/lambda/${SpaceBackup}
+      RetentionInDays: 7
+  
