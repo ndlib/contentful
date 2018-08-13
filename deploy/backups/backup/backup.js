@@ -5,15 +5,19 @@ const spaceExport = require('contentful-export');
 const fs = require('fs');
 const util = require('util');
 const exec = util.promisify(require('child_process').exec);
-
-const key = (new Date().toISOString() + ".tgz").replace(/[:]/g, "-")
+const hesburgh = require('@hesburgh-wse/hesburgh_utilities');
+const heslog = hesburgh.heslog
 
 exports.run = async (event, context, callback) => {
 //async function foo() { // local testing
 
-  /* expects event obj formatted...
-  * var event = { "backup": { "spaces": ['nb1bvw5cwdnf'] }};
-  */
+  //expects event obj formatted...
+  // var event = { "backup": { "spaces": ['ecpq79ht7mvr'] }};
+  // var context = {"addcon": "none"};
+
+  await heslog.setHubContext('contentful')
+  heslog.addContext(event.backup.spaces)
+  heslog.addLambdaContext(event, context)
 
   /* retrieve parameter store values */
   let secrets;
@@ -29,10 +33,9 @@ exports.run = async (event, context, callback) => {
       WithDecryption: true
     };
     secrets = await ssm.getParameters(params).promise();
-    console.log('Secrets retrieved');
+    heslog.info('Secrets retrieved');
   } catch (e) {
-    err_msg = e;
-    console.log(e);
+    heslog.error(e);
   }
 
   let bucket, bucketDir, contentfulToken;
@@ -45,13 +48,14 @@ exports.run = async (event, context, callback) => {
       contentfulToken = element.Value;
     }
   });
-  console.log('Secrets set');
+  heslog.info('Secrets set');
 
-  let err_msg;
+  const exportTar = (new Date().toISOString() + "-" + event.backup.spaces[0] + ".tgz").replace(/[:]/g, "-");
 
   /* export backup, tar, and copy to S3 */
   if(bucket == null || bucketDir == null || contentfulToken == null) {
-    err_msg = 'Contentful AWS parameters not set correctly';
+    heslog.addContext({'bucket':bucket, 'bucketDir':bucketDir})
+    heslog.error('Contentful AWS parameters not set correctly');
   } else {
     try {
       await exec(`rm -rf /tmp/data`)
@@ -73,74 +77,53 @@ exports.run = async (event, context, callback) => {
               includeDrafts: true,
               exportDir: '/tmp/data',
           }
-
           return spaceExport(options)
         }
       })
-      console.log('Spaces exported');
-
       await(Promise.all(data))
+      heslog.info('Spaces exported');
 
-      await exec(`tar czf /tmp/${key} /tmp/data`)
-      let params = {
+      await exec(`tar czf /tmp/${exportTar} /tmp/data`);
+      const buf = fs.readFileSync(`/tmp/${exportTar}`);
+      const params = {
         Bucket  : bucket,
-        Key     : `${bucketDir}/${key}`,
-        Body    : fs.readFileSync(`/tmp/${key}`),
+        Key     : `${bucketDir}/${exportTar}`,
+        Body    : buf,
       }
       const S3 = new AWS.S3({
         region: "us-east-1",
         signatureVersion: 'v4',
       })
-      await S3.putObject(params).promise()
-      console.log('Export placed in S3')
+      let putPromise = await S3.putObject(params).promise();
+      heslog.info('Export placed in S3');
     } catch (e) {
-      err_msg = e;
-      console.log(e)
+      heslog.addContext(params);
+      heslog.error(e)
     }
   }
 
   /* verify backup file in S3 */
   try {
-    if(err_msg == null) {
-      const S3 = new AWS.S3({
-        region: "us-east-1",
-        signatureVersion: 'v4',
-      })
-      let backupFileDetails = {
-        Bucket: bucket,
-        MaxKeys: 1,
-        Prefix: `${bucketDir}/${key}`
-      }
-      const content = await S3.listObjects(backupFileDetails).promise();
-      if(content.Contents.length == 0) {
-        err_msg = 'No Contentful export backup file found';
-      }
+    const params = {
+      Bucket: bucket,
+      MaxKeys: 1,
+      Prefix: `${bucketDir}/${exportTar}`,
+    }
+    const S3 = new AWS.S3({
+      region: "us-east-1",
+      signatureVersion: 'v4',
+    })
+    
+    let content = await S3.listObjects(params).promise();
+    if(content.Contents.length == 0) {
+      heslog.addContext(params);
+      heslog.error('No Contentful export backup file found in S3');
+    } else {
+      heslog.info('Verified export in S3')
     }
   } catch (e) {
-    console.log(e)
-  }
-
-  /* if errors then send notifications */
-  if(err_msg) {
-    try {
-      const sns = new AWS.SNS({region: "us-east-1"});
-      const topics = await sns.listTopics().promise();
-      let topic;
-      topics.Topics.forEach(function(element) {
-        if(element.TopicArn.endsWith('backSpace')) {
-          topic = element.TopicArn
-        }
-      });
-      const notify = {
-        Message: JSON.stringify(err_msg),
-        Subject: 'Contentful Backup Failure',
-        TopicArn: topic
-      };
-      await sns.publish(notify).promise();
-    } catch (e) {
-      console.log(e)
-    }
+    heslog.error(e)
   }
 };
 
-//foo() //local testing
+//foo(); //local testing

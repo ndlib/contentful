@@ -20,11 +20,15 @@ Stacks:
         TemplateBucket: $DEPLOY_BUCKET
         TemplateFolder: $DEPLOY_FOLDER
 
+LambdaEnv:
+  Global:
+    KMSKey: alias/wse/kms/
+
 Artifacts:
   Templates:
     - root.yml
-    #- bucket.yml
-    - sns.yml
+    #- roles.yml
+    - bucket.yml
     - lambda.yml
   Zips:
     -

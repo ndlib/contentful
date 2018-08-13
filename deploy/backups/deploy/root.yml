@@ -18,11 +18,11 @@ Parameters:
     Description: Location of template files
 
 Resources:
-  SnsStack:
+  BucketStack:
     Type: AWS::CloudFormation::Stack
     Properties:
       TemplateURL:
-        Fn::Sub: https://s3.amazonaws.com/${TemplateBucket}/${TemplateFolder}/sns.yml
+        Fn::Sub: https://s3.amazonaws.com/${TemplateBucket}/${TemplateFolder}/bucket.yml
   LambdaStack:
     Type: AWS::CloudFormation::Stack
     Properties:
@@ -33,4 +33,4 @@ Resources:
         StageName: !Ref StageName
         SourceBucket: !Ref TemplateBucket
         SourceKey: !Sub ${TemplateFolder}/source.zip
-        RoleArn: !ImportValue ContentfulBackupRole
+        RoleArn: !ImportValue LambdaServiceRole
