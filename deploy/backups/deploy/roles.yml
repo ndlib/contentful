@@ -1,0 +1,52 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: "Roles for contentful backup artifact stack"
+
+Parameters:
+  ServiceName:
+    Type: String
+    Description: The name of the service
+  LambdaRole:
+    Type: String
+    Description: Name of the output bucket
+
+Outputs:
+  RoleArn:
+    Value: !GetAtt LambdaRole.Arn
+    # Value: LambdaRole.Arn
+
+Resources:
+# #CREATE ROLE
+#   LambdaRole:
+#     Type: "AWS::IAM::Role"
+#     Properties: 
+#       AssumeRolePolicyDocument: 
+#         Version: "2012-10-17"
+#         Statement: 
+#           - 
+#             Effect: "Allow"
+#             Principal: 
+#               Service: 
+#                 - "lambda.amazonaws.com"
+#             Action: 
+#               - "sts:AssumeRole"
+#       ManagedPolicyArns:
+#        - arn:aws:iam::aws:policy/AmazonS3FullAccess
+#        - arn:aws:iam::aws:policy/AmazonSSMReadOnlyAccess
+#INLINE POLICY - S3 error: Access Denied
+  # Boo:
+  #   Type: AWS::IAM::Policy
+  #   Properties:
+  #     PolicyDocument: 
+  #       Version: "2012-10-17"
+  #       Statement: 
+  #         - 
+  #           Effect: "Allow"
+  #           Action: 
+  #             - "s3:GetObject"
+  #             - "s3:PutObject"
+  #             #- "ssm:*"
+  #             #- "lambda:*"
+  #           Resource: "*"
+  #     PolicyName: S3SSMPolicy
+  #     Roles:
+  #       - !Ref LambdaRole

@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "aws-sdk": "^2.230.1",
+    "@hesburgh-wse/hesburgh_utilities": "^2.0.0",
     "contentful-export": "^7.0.0",
     "contentful-management": "^5.0.0"
   }
