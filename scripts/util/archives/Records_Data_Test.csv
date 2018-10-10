@@ -1,0 +1,31 @@
+,Functional Category,Record Type Title,Schedule ID #,Record Type Description,Official Copy,Retention ,Trigger Event,Disposition,Disposition Method,Reference Copy,Reference Copy Disposition,Reference Copy Disposition Method,Data Classification,Storage Requirements,Legal Reference,Notes,System of Record,Archives Notes,General Counsel Notes,Date Approved by General Counsel,Date Revised
+1,Audio/Visual Records,Record 1,17.C1,Records documenting . . .,Office Name,10 years,After date of event,Destroy,Shred,Maintain in office until no longer needed for reference,Destroy,Shred,,,,,,,,1/1/18,
+2,Category Name 1,Record 2,17.C2,Records documenting . . .,Office Name,30 years,After date of event,Destroy,Shred,Maintain in office until no longer needed for reference,Destroy,Shred,,,,,,,,1/1/18,
+3,Category Name 1,Record 3,17.C3,Records documenting . . .,,30 years,After date of application,Destroy,Shred,,,,,,,,,,,1/1/18,
+4,Category Name 1,Record 4,17.D1,Records documenting . . .,,Permanent,After date of event,Destroy,Secure Shred,,,,Internal,,,,,,,1/1/18,
+5,Category Name 1,Record 5,17.D2,Records documenting . . .,,Reference,Maintain in office until no longer needed for reference,Transfer to the University Archives for appraisal,Secure Shred,,,,,File,,,OnBase,Per interview.,,1/1/18,6/1/18
+6,Category Name 1,Record 6,17.D3,Records documenting . . .,,3 years,After date of event,Destroy,Shred,,,,,,,,,,,1/1/18,
+7,Category Name 1,Record 7,17.D4,Records documenting . . .,,100 years,After date of event,Destroy,Shred,,,,,,,,,,,1/1/18,
+8,Category Name 1,Record 8,17.I1,Records documenting . . .,,"5 years 
+",After date of event,Destroy,Shred,,,,,File,,,,,Note 1,1/1/18,
+9,Category Name 1,Record 9,17.I2,Records documenting . . .,,3 years,After date of event,Destroy,Shred,,,,,,,Please see (LINK),,,,1/1/18,
+10,Category Name 1,Record 10,17.I3,Records documenting . . .,,"5 years 
+",After date of event,Destroy,Shred,,,,,,,,,,,1/1/18,
+11,Category Name 1,Record 11,17.I4,Records documenting . . .,,20 years,After date of event,Destroy,Shred,,,,,,,,,,,1/1/18,10/10/18
+12,Category Name 1,Record 12,17.I5,Records documenting . . .,Office Name,20 years,After end of calendar year,Destroy,Shred,Maintain in office until no longer needed for reference,Destroy,Shred,Public,,,,,,,1/1/18,
+13,Category Name 1,Record 13,17.I6,Records documenting . . .,Office Name,Permanent,After date of event,Destroy,Secure Shred,Maintain in office until no longer needed for reference,Destroy,Shred,Public,,,,,Per General Counsel.,Note 3,1/1/18,
+14,Category Name 1,Record 14,17.L1,Records documenting . . .,Office Name,10 years,After date of event,Transfer to the University Archives for appraisal,Secure Shred,Maintain in office until no longer needed for reference,Destroy,Shred,,,,A claim becomes part of a litigation file if it goes to court. ,,,,1/1/18,
+15,Category Name 1,Record 15,17.R1,Records documenting . . .,,Permanent,After date of event,Destroy,Secure Shred,,,,,Box,,,,,,1/1/18,
+16,Category Name 1,Record 16,17.S1,Records documenting . . .,,Reference,Maintain in office until no longer needed for reference,Destroy,Shred,,,,,,,,Vimeo,Per RMS interview.,,1/1/18,
+17,Category Name 1,Record 17,17.S2,Records documenting . . .,,30 years,After date of event,Destroy,Shred,,,,,,,,complyND,,,1/1/18,
+18,Category Name 1,Record 18,17.S3,Records documenting . . .,,7 years ,After date of event,Destroy,Shred,,,,,,,,,,,1/1/18,
+19,Category Name 1,Record 19,17.S4,Records documenting . . .,,1 year,After date of event,Destroy,Shred,,,,Sensitive,,,,,,,1/1/18,
+20,Category Name 1,Record 20,17.W1,Records documenting . . .,,Reference,Maintain in office until no longer needed for reference,Destroy,Shred,,,,,,,,,,,1/1/18,
+21,Category Name 1,Record 21,17.W2,Records documenting . . .,,10 years,After date of event,Destroy,Shred,,,,,Box,,,,,,1/1/18,5/15/18
+22,Category Name 1,Record 22,17.W3,Records documenting . . .,,50 years,After date of event,Destroy,Shred,,,,,,,,,,,1/1/18,
+23,Category Name 1,Record 23,17.W4,Records documenting . . .,,70 years,After date of event,Destroy,Shred,,,,,,,,,,Note 2,1/1/18,
+24,Category Name 1,Record 24,17.W5,Records documenting . . .,,30 years,After date of event,Destroy,Shred,,,,,,29 CFR 1910.1030,,,,,1/1/18,
+25,Category Name 1,Record 25,17.W6,Records documenting . . .,,"5 years 
+",After end of calendar year,Destroy,Shred,,,,Sensitive,,,,OnBase,,,1/1/18,
+26,Category Name 1,Record 26,17.W7,Records documenting . . .,,"5 years 
+",After date of event,Destroy,Shred,,,,,,,,,,,1/1/18,
