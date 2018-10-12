@@ -1,0 +1,1887 @@
+{
+  "entries": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "1MtY5EsFLyia4gKm4EcWgs",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:22:25.038Z",
+        "updatedAt": "2018-09-28T17:22:35.424Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T17:22:35.424Z",
+        "publishedAt": "2018-09-28T17:22:35.424Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Administrative Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "1Hg74grEpCWQeMsC0G0mY4",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:22:48.595Z",
+        "updatedAt": "2018-09-28T17:22:55.850Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T17:22:55.850Z",
+        "publishedAt": "2018-09-28T17:22:55.850Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Alumni and Development Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "2LFO5dAkJq6q0eWGOa4Y0E",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:22:58.518Z",
+        "updatedAt": "2018-09-28T17:23:09.003Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T17:23:09.003Z",
+        "publishedAt": "2018-09-28T17:23:09.003Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Archives, Libraries, and Museums Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "4Alt5MEDrW42KsKiEWIggo",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:23:12.334Z",
+        "updatedAt": "2018-09-28T17:23:18.670Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T17:23:18.670Z",
+        "publishedAt": "2018-09-28T17:23:18.670Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Athletics Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "6nxijuigj6ImcYY2MYicSQ",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:23:26.660Z",
+        "updatedAt": "2018-09-28T17:23:28.669Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T17:23:28.669Z",
+        "publishedAt": "2018-09-28T17:23:28.669Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Audio/Visual Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "7ephhWwTFS4C8MuSIEqGek",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:23:34.955Z",
+        "updatedAt": "2018-09-28T17:23:37.561Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T17:23:37.561Z",
+        "publishedAt": "2018-09-28T17:23:37.561Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Curriculum and Instruction Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "6GkbAgrPA4uO0mg06KyMCG",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:23:44.389Z",
+        "updatedAt": "2018-09-28T17:23:46.390Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T17:23:46.390Z",
+        "publishedAt": "2018-09-28T17:23:46.390Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Equipment and Supplies Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "4zqSm0QwIo6Q0WSqiUI84Q",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:23:54.201Z",
+        "updatedAt": "2018-09-28T17:23:56.250Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T17:23:56.250Z",
+        "publishedAt": "2018-09-28T17:23:56.250Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Facilities and Property Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "5lVHGI5KoMky8CmcmM6oaM",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:24:00.102Z",
+        "updatedAt": "2018-09-28T17:24:06.762Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T17:24:06.762Z",
+        "publishedAt": "2018-09-28T17:24:06.762Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Financial and Accounting Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "5yGgVaYK2suOeC06cS4KCW",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:24:30.946Z",
+        "updatedAt": "2018-09-28T17:24:33.065Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T17:24:33.065Z",
+        "publishedAt": "2018-09-28T17:24:33.065Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Grants and Research Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "2hOdPtXiCcYeOGi2Kk8esa",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:24:39.467Z",
+        "updatedAt": "2018-09-28T17:24:44.412Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T17:24:44.412Z",
+        "publishedAt": "2018-09-28T17:24:44.412Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Health Services and Medical Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "tWRYfp1EacyYeOIeG4ouG",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:24:46.780Z",
+        "updatedAt": "2018-09-28T17:24:54.790Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T17:24:54.790Z",
+        "publishedAt": "2018-09-28T17:24:54.790Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Human Resources and Personnel Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "3MzfhlgbnysSM882C8eIQu",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:25:04.519Z",
+        "updatedAt": "2018-09-28T17:25:07.909Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T17:25:07.909Z",
+        "publishedAt": "2018-09-28T17:25:07.909Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Information Technology Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "6phZ4ROGXe0CuGSsGE0SaO",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:25:13.821Z",
+        "updatedAt": "2018-09-28T17:25:15.829Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T17:25:15.829Z",
+        "publishedAt": "2018-09-28T17:25:15.829Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Legal Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "16KpRSqZUGYwgyAgW22wSg",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:25:22.697Z",
+        "updatedAt": "2018-09-28T18:02:41.892Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 17,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 16,
+        "firstPublishedAt": "2018-09-28T17:25:24.755Z",
+        "publishedAt": "2018-09-28T18:02:41.892Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Publications, Marketing and Communication Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "6dPLSupJmgqGe8E0SUeI0a",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:25:37.265Z",
+        "updatedAt": "2018-09-28T18:03:54.120Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 5,
+        "firstPublishedAt": "2018-09-28T17:25:40.773Z",
+        "publishedAt": "2018-09-28T18:03:54.120Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Student Records: Academic"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "5Wf6xkPxM4qS8mEOgeuke8",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:25:49.334Z",
+        "updatedAt": "2018-09-28T18:04:06.124Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 5,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 4,
+        "firstPublishedAt": "2018-09-28T17:25:51.945Z",
+        "publishedAt": "2018-09-28T18:04:06.124Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Student Records: Financial Services"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "69lftMLnQQkY4GiukiCU2w",
+        "type": "Entry",
+        "createdAt": "2018-09-28T17:25:58.856Z",
+        "updatedAt": "2018-09-28T18:04:22.128Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 5,
+        "firstPublishedAt": "2018-09-28T17:26:02.249Z",
+        "publishedAt": "2018-09-28T18:04:22.128Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Student Records: Residential Life"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "61PhZsJ1cWQmkESmi8KkGe",
+        "type": "Entry",
+        "createdAt": "2018-09-28T18:01:28.359Z",
+        "updatedAt": "2018-09-28T18:01:35.008Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T18:01:35.008Z",
+        "publishedAt": "2018-09-28T18:01:35.008Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Campus Services and Auxiliary Operations Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "1w88ZgAa00ei2Aw06uA862",
+        "type": "Entry",
+        "createdAt": "2018-09-28T18:03:06.155Z",
+        "updatedAt": "2018-09-28T18:03:12.632Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 2,
+        "firstPublishedAt": "2018-09-28T18:03:12.632Z",
+        "publishedAt": "2018-09-28T18:03:12.632Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Risk Management and Safety Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "15CwXKzUPw4OS4qsAWEygw",
+        "type": "Entry",
+        "createdAt": "2018-09-28T18:03:23.406Z",
+        "updatedAt": "2018-09-28T18:03:32.128Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 3,
+        "firstPublishedAt": "2018-09-28T18:03:32.128Z",
+        "publishedAt": "2018-09-28T18:03:32.128Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "category"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Security, Police and Fire Records"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "5smwBS7j8Iu8gc60OMkgSm",
+        "type": "Entry",
+        "createdAt": "2018-10-02T18:52:27.360Z",
+        "updatedAt": "2018-10-02T18:53:04.567Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 47,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 46,
+        "firstPublishedAt": "2018-10-02T18:53:04.567Z",
+        "publishedAt": "2018-10-02T18:53:04.567Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "page"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Records Retention Schedules"
+        },
+        "slug": {
+          "en-US": "home"
+        },
+        "mainText": {
+          "en-US": "This text appears on the front page."
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "3B1iJvWejmmKesSOkSWkkq",
+        "type": "Entry",
+        "createdAt": "2018-10-02T18:53:09.830Z",
+        "updatedAt": "2018-10-02T18:53:40.589Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 71,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 70,
+        "firstPublishedAt": "2018-10-02T18:53:40.589Z",
+        "publishedAt": "2018-10-02T18:53:40.589Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "page"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Functional Categories"
+        },
+        "slug": {
+          "en-US": "categories"
+        },
+        "mainText": {
+          "en-US": "This text goes before the programatic content."
+        },
+        "afterText": {
+          "en-US": "This text goes after the programatic content."
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "2iZv8jz2WAweqM2mOkuoi4",
+        "type": "Entry",
+        "createdAt": "2018-10-02T18:56:20.701Z",
+        "updatedAt": "2018-10-02T18:58:17.083Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 174,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 173,
+        "firstPublishedAt": "2018-10-02T18:58:17.083Z",
+        "publishedAt": "2018-10-02T18:58:17.083Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "recordType"
+          }
+        }
+      },
+      "fields": {
+        "recordType": {
+          "en-US": "Test record type"
+        },
+        "category": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "1MtY5EsFLyia4gKm4EcWgs"
+            }
+          }
+        },
+        "scheduleId": {
+          "en-US": "564654asd"
+        },
+        "recordTypeDescription": {
+          "en-US": "This is a description of the record type."
+        },
+        "officialCopy": {
+          "en-US": "stored in an office"
+        },
+        "retention": {
+          "en-US": "99 years"
+        },
+        "triggerEvent": {
+          "en-US": "After conclusion of study or resolution of complaint (whichever is later)"
+        },
+        "disposition": {
+          "en-US": "Transfer to the University Archives"
+        },
+        "dispositionMethod": {
+          "en-US": "Secure Shred"
+        },
+        "referenceCopy": {
+          "en-US": "Maintain in office until no longer needed for reference"
+        },
+        "referenceCopyDisposition": {
+          "en-US": "Destroy"
+        },
+        "referenceCopyDispositionMethod": {
+          "en-US": "Recycle"
+        },
+        "dataClassification": {
+          "en-US": "Internal"
+        },
+        "storageRequirements": {
+          "en-US": "Notes on storage requirements."
+        },
+        "legalReference": {
+          "en-US": "a legal reference goes here"
+        },
+        "notes": {
+          "en-US": "Notes on \"notes\" field."
+        },
+        "systemOfRecord": {
+          "en-US": "somekind of system of record data"
+        },
+        "archivesNotes": {
+          "en-US": "Notes from the \"Archives Notes\"."
+        },
+        "generalCounselNotes": {
+          "en-US": "Notes from General Counsel."
+        },
+        "dateApprovedByGeneralCounsel": {
+          "en-US": "1983-10-02"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "3zm8XtMfCoSOEs6SSWkAeO",
+        "type": "Entry",
+        "createdAt": "2018-10-02T18:58:24.441Z",
+        "updatedAt": "2018-10-02T18:59:10.207Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 26,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 25,
+        "firstPublishedAt": "2018-10-02T18:58:47.345Z",
+        "publishedAt": "2018-10-02T18:59:10.207Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "recordType"
+          }
+        }
+      },
+      "fields": {
+        "recordType": {
+          "en-US": "A different test record"
+        },
+        "category": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "1Hg74grEpCWQeMsC0G0mY4"
+            }
+          }
+        },
+        "scheduleId": {
+          "en-US": "65465456"
+        },
+        "recordTypeDescription": {
+          "en-US": "This is a description of the record type."
+        },
+        "officialCopy": {
+          "en-US": "stored in an office"
+        },
+        "retention": {
+          "en-US": "99 years"
+        },
+        "triggerEvent": {
+          "en-US": "After conclusion of study or resolution of complaint (whichever is later)"
+        },
+        "disposition": {
+          "en-US": "Transfer to the University Archives"
+        },
+        "dispositionMethod": {
+          "en-US": "Secure Shred"
+        },
+        "referenceCopy": {
+          "en-US": "Maintain in office until no longer needed for reference"
+        },
+        "referenceCopyDisposition": {
+          "en-US": "Destroy"
+        },
+        "referenceCopyDispositionMethod": {
+          "en-US": "Recycle"
+        },
+        "dataClassification": {
+          "en-US": "Internal"
+        },
+        "storageRequirements": {
+          "en-US": "Notes on storage requirements."
+        },
+        "legalReference": {
+          "en-US": "a legal reference goes here"
+        },
+        "notes": {
+          "en-US": "Notes on \"notes\" field."
+        },
+        "systemOfRecord": {
+          "en-US": "somekind of system of record data"
+        },
+        "archivesNotes": {
+          "en-US": "Notes from the \"Archives Notes\"."
+        },
+        "generalCounselNotes": {
+          "en-US": "Notes from General Counsel."
+        },
+        "dateApprovedByGeneralCounsel": {
+          "en-US": "1983-10-02"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "3vF2lgAB3yqCqW8e8UmiY2",
+        "type": "Entry",
+        "createdAt": "2018-10-02T18:59:18.217Z",
+        "updatedAt": "2018-10-04T14:22:51.236Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 11,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 10,
+        "firstPublishedAt": "2018-10-02T18:59:27.030Z",
+        "publishedAt": "2018-10-04T14:22:51.236Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "recordType"
+          }
+        }
+      },
+      "fields": {
+        "recordType": {
+          "en-US": "A name goes here"
+        },
+        "category": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "1Hg74grEpCWQeMsC0G0mY4"
+            }
+          }
+        },
+        "scheduleId": {
+          "en-US": "65465456"
+        },
+        "recordTypeDescription": {
+          "en-US": "This is a description of the record type."
+        },
+        "officialCopy": {
+          "en-US": "stored in an office"
+        },
+        "retention": {
+          "en-US": "99 years"
+        },
+        "triggerEvent": {
+          "en-US": "After conclusion of study or resolution of complaint (whichever is later)"
+        },
+        "disposition": {
+          "en-US": "Transfer to the University Archives"
+        },
+        "dispositionMethod": {
+          "en-US": "Secure Shred"
+        },
+        "referenceCopy": {
+          "en-US": "Maintain in office until no longer needed for reference"
+        },
+        "referenceCopyDisposition": {
+          "en-US": "Destroy"
+        },
+        "referenceCopyDispositionMethod": {
+          "en-US": "Recycle"
+        },
+        "dataClassification": {
+          "en-US": "Internal"
+        },
+        "storageRequirements": {
+          "en-US": "Notes on storage requirements."
+        },
+        "legalReference": {
+          "en-US": "a legal reference goes here"
+        },
+        "notes": {
+          "en-US": "Notes on \"notes\" field."
+        },
+        "systemOfRecord": {
+          "en-US": "somekind of system of record data"
+        },
+        "dateApprovedByGeneralCounsel": {
+          "en-US": "1983-10-02"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6vuuqxb2pkxd"
+          }
+        },
+        "id": "6IKHMp3Gfuaq8Q44wAo6w6",
+        "type": "Entry",
+        "createdAt": "2018-10-02T18:59:30.433Z",
+        "updatedAt": "2018-10-08T19:13:08.868Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 4,
+        "version": 19,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedVersion": 18,
+        "firstPublishedAt": "2018-10-02T18:59:40.682Z",
+        "publishedAt": "2018-10-08T19:13:08.868Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "recordType"
+          }
+        }
+      },
+      "fields": {
+        "recordType": {
+          "en-US": "XYZ record title"
+        },
+        "category": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "1Hg74grEpCWQeMsC0G0mY4"
+            }
+          }
+        },
+        "scheduleId": {
+          "en-US": "65465456"
+        },
+        "recordTypeDescription": {
+          "en-US": "This is a description of the record type."
+        },
+        "officialCopy": {
+          "en-US": "stored in an office"
+        },
+        "retention": {
+          "en-US": "99 years"
+        },
+        "triggerEvent": {
+          "en-US": "After conclusion of study or resolution of complaint (whichever is later)"
+        },
+        "disposition": {
+          "en-US": "Transfer to the University Archives"
+        },
+        "dispositionMethod": {
+          "en-US": "Secure Shred"
+        },
+        "referenceCopy": {
+          "en-US": "Maintain in office until no longer needed for reference"
+        },
+        "referenceCopyDisposition": {
+          "en-US": "Destroy"
+        },
+        "referenceCopyDispositionMethod": {
+          "en-US": "Recycle"
+        },
+        "dataClassification": {
+          "en-US": "Internal"
+        },
+        "storageRequirements": {
+          "en-US": "Notes on storage requirements."
+        },
+        "legalReference": {
+          "en-US": "a legal reference goes here"
+        },
+        "notes": {
+          "en-US": "Notes on \"notes\" field."
+        },
+        "systemOfRecord": {
+          "en-US": "somekind of system of record data"
+        },
+        "generalCounselNotes": {
+          "en-US": "Notes from General Counsel."
+        },
+        "dateApprovedByGeneralCounsel": {
+          "en-US": "1983-10-02"
+        },
+        "dateRevised": {
+          "en-US": "2018-10-11"
+        }
+      }
+    }
+  ],
+  "assets": [
+  ]
+}
