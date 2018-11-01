@@ -1,4 +1,4 @@
-function normalize_space(str) {
+const normalize_space = (str) => {
   // Taken from here: https://bytes.com/topic/javascript/answers/165013-how-javascript-trim-normalize-space-functions#post637391
   // Replace repeated spaces, newlines and tabs with a single space
   return str.replace(/^\s*|\s(?=\s)|\s*$/g, "");
