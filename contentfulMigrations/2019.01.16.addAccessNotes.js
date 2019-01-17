@@ -10,7 +10,6 @@ const forward = (migration) => {
 
   // LW-469 Throwing this in as well since it was on the same content model and easy to lump in
   resource.editField('alephSystemNumber')
-    .required(true)
     .validations([
       { unique: true }
     ])
@@ -22,7 +21,6 @@ const reverse = (migration) => {
   resource.deleteField('accessNotes')
 
   resource.editField('alephSystemNumber')
-    .required(false)
     .validations([
       { unique: false }
     ])
