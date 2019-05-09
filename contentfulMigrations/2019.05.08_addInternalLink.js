@@ -73,7 +73,7 @@ const forward = (migration) => {
         return
       }
       return {
-        title: `${inputFields.title[currentLocale]}`,
+        title: `Link to ${inputFields.title[currentLocale]}`,
         usePageTitle: true,
         context: 'Subject',
       }
