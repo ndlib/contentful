@@ -29,6 +29,10 @@ const forward = async (migration, { makeRequest }) => {
       return
     }
     const matchingInternalLink = internalLinks.items.find(int => {
+      // Don't use the subject internal links. They aren't named right, even if they do point to the right page.
+      if (int.fields.context['en-US'] === 'Subject') {
+        return false
+      }
       if (int.fields.title['en-US'] === ext.fields.title['en-US']) {
         return true
       }
