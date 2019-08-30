@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Slug Checker</title>
+    <!-- Contentful's default styles -->
+    <link rel="stylesheet" href="https://contentful.github.io/ui-extensions-sdk/cf-extension.css">
+    <!-- UI Extensions SDK -->
+    <script src="https://contentful.github.io/ui-extensions-sdk/cf-extension-api.js"></script>
+    <link href="https://static.contentful.com/app/main-62e0abc7.css" media="all" rel="stylesheet" type="text/css">
+    <link href="https://static.contentful.com/app/vendor-976872d7.css" media="all" rel="stylesheet" type="text/css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.js"></script>
+  </head>
+  <body>
+    <div id="content">
+      <i id="error" class="fa fa-exclamation-triangle is-slug-duplicate" style="color:orangered;font-size: 25px;"></i>
+      <i id="ok" class="fa fa-check-circle is-slug-unique" style="color:green; font-size: 25px"></i>
+      <i id="loading" class="fa fa-spinner fa-spin" style="font-size: 25px"></i>
+      <input id="slug" type="text" class="cf-form-input" style="width:95%; display:inline-block;">
+      <p id="error-text">This slug is already taken.</p>
+    </div>
+    <script type="text/javascript">
+      const cfExt = window.contentfulExtension
+
+      cfExt.init(api => {
+        const slugField = api.field
+        // we may want to use this to generate a slug if none exists
+        // const titleField = api.entry.fields.title
+
+        var _ = window._;
+        var debouncedUpdateStatus = _.debounce(updateStatus, 500);
+
+        const errorText = document.getElementById('error-text')
+        const input = document.getElementById('slug')
+        const statusElements = {
+          error: document.getElementById('error'),
+          ok: document.getElementById('ok'),
+          loading: document.getElementById('loading')
+        }
+
+        api.window.updateHeight()
+
+        const initialValue = slugField.getValue()
+
+        // this fires immediatly
+        // titleField.onValueChanged(handleSlugChange)
+
+        input.addEventListener('input', () => handleSlugChange(input.value))
+        input.addEventListener('change', () => handleSlugChange(input.value))
+
+        // overwrite immediately fired actions that wrote the slug
+        setSlug(initialValue)
+
+        /**
+         * Handle change of slug value caused by either changing slug field
+         * or changing the title of the entry
+         */
+        function handleSlugChange (value) {
+          setSlug(value || '')
+        }
+
+        /**
+         * Set the input value to 'slug' and update the status by checking for
+         * duplicates.
+         */
+        function setSlug (slug) {
+          input.value = slug
+          slugField.setValue(slug)
+          setStatus('loading')
+          debouncedUpdateStatus(slug)
+        }
+
+        /**
+         * Show inline status icon based on current status
+         */
+        function updateStatus (slug) {
+          getDuplicates(slug).then(function (hasDuplicates) {
+            if (hasDuplicates) {
+              setStatus('error')
+            } else {
+              setStatus('ok')
+            }
+          })
+        }
+
+        /**
+         * Show icon for given status
+         */
+        function setStatus (status) {
+          if (status === "error") {
+            errorText.style.display = 'inline'
+          } else {
+            errorText.style.display = 'none'
+          }
+
+          Object.keys(statusElements).forEach(key => {
+            let element = statusElements[key]
+
+            if (key === status) {
+              element.style.display = 'inline'
+            } else {
+              element.style.display = 'none'
+            }
+          })
+        }
+
+        /**
+         * Check if slug is already in use.
+         * Resolves to 'true' if there are entries of the given content type that have
+         * the same 'slug' value.
+         */
+        function getDuplicates(slug) {
+          if (!slug) {
+            return Promise.resolve(false);
+          }
+
+          return api.space.getContentTypes().then(contentTypes => {
+            let promises = []
+            let items = contentTypes.items
+
+            // for all content types
+            for (let i = 0; i < items.length; ++i) {
+              let current = items[i]
+
+              // for all fields in this content type
+              for (let j = 0; j < current.fields.length; ++j) {
+                let field = current.fields[j]
+
+                // if the content type has a slug field, query it for matching slugs
+                if (field.id === "slug") {
+                  let query = {};
+
+                  query['content_type'] = current.sys.id;
+                  query['fields.' + slugField.id] = slug;
+                  query['sys.id[ne]'] = api.entry.getSys().id;
+                  query['sys.publishedAt[exists]'] = true;
+
+                  // add the promise of the result
+                  promises.push(api.space.getEntries(query).then(function (result) {
+                    return result.total > 0;
+                  }));
+                }
+              }
+            }
+            // resolve all queries, and return if there are duplicates or not
+            return Promise.all(promises).then((result) => {
+              for (let i = 0; i < result.length; ++i) {
+                if (result[i]) {
+                  // true means there is a duplicate found
+                  return true
+                }
+              }
+              return false
+            })
+          });
+        }
+      })
+    </script>
+  </body>
+</html>
