@@ -16,6 +16,7 @@
       <i id="error" class="fa fa-exclamation-triangle is-slug-duplicate" style="color:orangered;font-size: 25px;"></i>
       <i id="ok" class="fa fa-check-circle is-slug-unique" style="color:green; font-size: 25px"></i>
       <i id="loading" class="fa fa-spinner fa-spin" style="font-size: 25px"></i>
+      <i id="none" class="fa fa-minus-circle" style="color:gray; font-size: 25px"></i>
       <input id="slug" type="text" class="cf-form-input" style="width:95%; display:inline-block;">
       <p id="error-text">This slug is already taken.</p>
     </div>
@@ -24,8 +25,8 @@
 
       cfExt.init(api => {
         const slugField = api.field
-        // we may want to use this to generate a slug if none exists
-        // const titleField = api.entry.fields.title
+        const titleField = api.entry.fields.title
+        console.log('the entry', api.entry.getSys())
 
         var _ = window._;
         var debouncedUpdateStatus = _.debounce(updateStatus, 500);
@@ -35,18 +36,27 @@
         const statusElements = {
           error: document.getElementById('error'),
           ok: document.getElementById('ok'),
-          loading: document.getElementById('loading')
+          loading: document.getElementById('loading'),
+          none: document.getElementById('none')
         }
 
         api.window.updateHeight()
 
         const initialValue = slugField.getValue()
 
-        // this fires immediatly
-        // titleField.onValueChanged(handleSlugChange)
+        input.addEventListener('input', handleSlugChange)
+        input.addEventListener('change', handleSlugChange)
 
-        input.addEventListener('input', () => handleSlugChange(input.value))
-        input.addEventListener('change', () => handleSlugChange(input.value))
+        let previousTitle = ''
+        if (titleField) {
+          previousTitle = titleField.getValue()
+
+        	titleField.onValueChanged(() => {
+            handleSlugChange()
+            // Important that this is updated after the slug change
+            previousTitle = titleField.getValue()
+          })
+        }
 
         // overwrite immediately fired actions that wrote the slug
         setSlug(initialValue)
@@ -55,8 +65,15 @@
          * Handle change of slug value caused by either changing slug field
          * or changing the title of the entry
          */
-        function handleSlugChange (value) {
-          setSlug(value || '')
+        function handleSlugChange () {
+          const titleValue = titleField ? titleField.getValue() : null
+          const generatedSlug = formatAsSlug(titleValue)
+          // BEFORE PULBISH: If slug field is empty, or if the slug "matched" the title previously, keep them in sync
+          const valueToSet = (!api.entry.getSys().publishedCounter && (!input.value || input.value === 'undefined' || input.value === formatAsSlug(previousTitle)))
+          	? generatedSlug
+          	: input.value
+
+          setSlug(valueToSet)
         }
 
         /**
@@ -64,21 +81,40 @@
          * duplicates.
          */
         function setSlug (slug) {
+          if (!slug || slug === 'undefined') {
+          	slug = null
+          }
           input.value = slug
           slugField.setValue(slug)
-          setStatus('loading')
-          debouncedUpdateStatus(slug)
+
+          if (slug) {
+            setStatus('loading')
+            debouncedUpdateStatus(slug)
+          } else {
+            setStatus('none')
+          }
+        }
+
+        /**
+         * Takes a string (I.E. title field's value) and formats it as a slug
+         */
+        function formatAsSlug (value) {
+          return value ? value.toLowerCase().replace(/ /g, '-') : null
         }
 
         /**
          * Show inline status icon based on current status
          */
         function updateStatus (slug) {
+          if (!slug) {
+          	setStatus('none')
+            return
+          }
           getDuplicates(slug).then(function (hasDuplicates) {
             if (hasDuplicates) {
               setStatus('error')
             } else {
-              setStatus('ok')
+              setStatus(input.value ? 'ok' : 'none')
             }
           })
         }
