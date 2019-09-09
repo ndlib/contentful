@@ -11,7 +11,6 @@ def convert(inputFilename, outputFilename):
     ('useProxy', 'bool'),
     ('destination', 'string'),
     ('status', 'string'),
-    ('context', 'string'),
     ('catalogId', 'int'),
     ('sourceId', 'string'),
   ])
