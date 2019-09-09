@@ -19,7 +19,7 @@ def convert(inputFilename, outputFilename):
 
   with open(inputFilename, 'r') as source:
     reader = json.load(source)
-    for cells in reader['data']:
+    for cells in reader:
       entry = OrderedDict()
       entry['sys'] = {
         "type": "Entry",

@@ -127,7 +127,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "PILOTS "
+          "en-US": "PILOTS"
         }, 
         "key": {
           "en-US": "003223110"
@@ -323,13 +323,13 @@
           "en-US": "19thcentmasterfile"
         }, 
         "useProxy": {
-          "en-US": true
+          "en-US": false
         }, 
         "destination": {
-          "en-US": "http://history.paratext.com"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -782,10 +782,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -1238,10 +1238,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -1694,10 +1694,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -1846,10 +1846,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -1884,10 +1884,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -1913,7 +1913,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "African-American Communities "
+          "en-US": "African-American Communities"
         }, 
         "key": {
           "en-US": "africamercomm"
@@ -2226,7 +2226,7 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/login/netid/docs/IraqJune2004final.pdf"
+          "en-US": "https://curate.nd.edu/show/dn39x062f0z"
         }, 
         "status": {
           "en-US": "Active"
@@ -2235,7 +2235,7 @@
           "en-US": "Electronic Resources"
         }, 
         "catalogId": {
-          "en-US": null
+          "en-US": 2061216
         }, 
         "sourceId": {
           "en-US": "453"
@@ -2302,10 +2302,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -2644,10 +2644,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -2682,10 +2682,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -2834,10 +2834,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -3442,10 +3442,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -3708,10 +3708,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -4316,10 +4316,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -4886,10 +4886,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -5152,7 +5152,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/arabic-literature-of-africa-online"
+          "en-US": "https://referenceworks.brillonline.com/browse/arabic-literature-of-africa-online"
         }, 
         "status": {
           "en-US": "Active"
@@ -5228,10 +5228,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -5304,10 +5304,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -5342,10 +5342,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -5418,10 +5418,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -5431,6 +5431,44 @@
         }, 
         "sourceId": {
           "en-US": "1386"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Classiques de l'argot et du jargon"
+        }, 
+        "key": {
+          "en-US": "argotjargon"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://classiques-garnier.com/classiques-de-l-argot-et-du-jargon.html"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5102442
+        }, 
+        "sourceId": {
+          "en-US": "1864"
         }
       }
     }, 
@@ -5713,7 +5751,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Arte P\u00fablico Hispanic historical collection, Series 2 (duplicate record) "
+          "en-US": "Arte P\u00fablico Hispanic historical collection, Series 2 (duplicate record)"
         }, 
         "key": {
           "en-US": "artepublicoleadersthinkers"
@@ -5722,10 +5760,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -6359,6 +6397,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Aspects of power and authority in the Middle Ages"
+        }, 
+        "key": {
+          "en-US": "aspectsofpower"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://www-brepolsonline-net.doi/book/10.1484/m.imr-eb.6.09070802050003050207030502"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5069160
+        }, 
+        "sourceId": {
+          "en-US": "1828"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Applied social sciences index and abstracts (ASSIA)"
         }, 
         "key": {
@@ -6634,10 +6710,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -6710,10 +6786,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -6748,10 +6824,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -6786,7 +6862,7 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://library.nd.edu/eresources/login/netid/AtlasUsElections/AtlasUSElections.shtml"
+          "en-US": "https://curate.nd.edu/show/qj72p557j1r"
         }, 
         "status": {
           "en-US": "Active"
@@ -7242,7 +7318,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://responsa.co.il/home.he.aspx"
+          "en-US": "https://www.responsa.co.il/home.en-US.aspx"
         }, 
         "status": {
           "en-US": "Active"
@@ -7280,10 +7356,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -7394,10 +7470,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -7461,7 +7537,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Basicila Online"
+          "en-US": "Basilica Online"
         }, 
         "key": {
           "en-US": "basilica"
@@ -7470,7 +7546,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/basilica-online"
+          "en-US": "https://referenceworks.brillonline.com/browse/basilica-online"
         }, 
         "status": {
           "en-US": "Active"
@@ -7546,10 +7622,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -7584,10 +7660,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -7597,6 +7673,82 @@
         }, 
         "sourceId": {
           "en-US": "487"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "BBC research"
+        }, 
+        "key": {
+          "en-US": "bbcresearch"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://www.bccresearch.com"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5143719
+        }, 
+        "sourceId": {
+          "en-US": "1872"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "BCC research"
+        }, 
+        "key": {
+          "en-US": "bccresearch"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://www.bccresearch.com"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5143719
+        }, 
+        "sourceId": {
+          "en-US": "1873"
         }
       }
     }, 
@@ -7660,10 +7812,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -7749,6 +7901,158 @@
         }, 
         "sourceId": {
           "en-US": "517"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Berkshire encyclopedia of China"
+        }, 
+        "key": {
+          "en-US": "berkencychina"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://www.oxfordreference.com/view/10.1093/acref/9780190622671.001.0001/acref-9780190622671"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5095818
+        }, 
+        "sourceId": {
+          "en-US": "1841"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Berkshire encyclopedia of world history, 2nd ed."
+        }, 
+        "key": {
+          "en-US": "berkencywldhist"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://www.oxfordreference.com/view/10.1093/acref/9780190622718.001.0001/acref-9780190622718"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5095871
+        }, 
+        "sourceId": {
+          "en-US": "1843"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Berkshire encyclopedia of world sport"
+        }, 
+        "key": {
+          "en-US": "berkencywldsprt"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://www.oxfordreference.com/view/10.1093/acref/9780190622695.001.0001/acref-9780190622695"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5096078
+        }, 
+        "sourceId": {
+          "en-US": "1844"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Berkshire encyclopedia of sustainability"
+        }, 
+        "key": {
+          "en-US": "berkenycsustain"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://www.oxfordreference.com/view/10.1093/acref/9780190622664.001.0001/acref-9780190622664"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5096077
+        }, 
+        "sourceId": {
+          "en-US": "1842"
         }
       }
     }, 
@@ -7926,7 +8230,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://cf.itergateway.org/beww/"
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://beww.itergateway.org"
         }, 
         "status": {
           "en-US": "Active"
@@ -7964,10 +8268,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -8145,6 +8449,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Bibliothe\u0300ques francophones"
+        }, 
+        "key": {
+          "en-US": "bibliofrancophone"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://classiques-garnier.com/bibliotheques-francophones.html"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5102437
+        }, 
+        "sourceId": {
+          "en-US": "1866"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Biblioteca Digital Hisp\u00e1nica (Biblioteca Nacional de Espa\u00f1a)"
         }, 
         "key": {
@@ -8192,10 +8534,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -8420,10 +8762,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -8876,10 +9218,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -9028,7 +9370,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://asp6new.alexanderstreet.com/blfi"
+          "en-US": "http://blfi.alexanderstreet.com/"
         }, 
         "status": {
           "en-US": "Active"
@@ -9104,7 +9446,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://www.oxfordreference.com.proxy.library.nd.edu/view/10.1093/acref/9780195156775.001.0001/acref-9780195156775"
+          "en-US": "http://www.oxfordreference.com/view/10.1093/acref/9780195156775.001.0001/acref-9780195156775"
         }, 
         "status": {
           "en-US": "Active"
@@ -9218,10 +9560,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -9253,10 +9595,10 @@
           "en-US": "bnalaw"
         }, 
         "useProxy": {
-          "en-US": true
+          "en-US": false
         }, 
         "destination": {
-          "en-US": "https://www-bna-com.proxy.library.nd.edu/Account/Subscriptions"
+          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
         }, 
         "status": {
           "en-US": "Active"
@@ -9779,7 +10121,45 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Brill's Medieval reference library online "
+          "en-US": "BrillOnline books (CORAL record# 5337)"
+        }, 
+        "key": {
+          "en-US": "brillebooks"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://brill.com/browse?access=user&et=bcoll&level=parent&pageSize=10&sort=datedescending"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5104988
+        }, 
+        "sourceId": {
+          "en-US": "1868"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Brill's Medieval reference library online"
         }, 
         "key": {
           "en-US": "brillmedreflib"
@@ -10159,7 +10539,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Blackwell reference online.  Literature "
+          "en-US": "Blackwell reference online.  Literature"
         }, 
         "key": {
           "en-US": "broliterature"
@@ -10168,10 +10548,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -10206,10 +10586,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -10244,10 +10624,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -10282,7 +10662,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://www.blackwellreference.com/subscriber/uid=2298/book?id=g9781405184649_9781405184649"
+          "en-US": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781405198073"
         }, 
         "status": {
           "en-US": "Active"
@@ -10358,10 +10738,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -10539,7 +10919,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Encyclopedia of business ethics and society, 2nd ed."
+          "en-US": "SAGE encyclopedia of business ethics and society, 2nd ed."
         }, 
         "key": {
           "en-US": "businessethicssociety2"
@@ -10548,7 +10928,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://sk.sagepub.com/reference/ethics?fromsearch=true"
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://sk.sagepub.com/reference/sage-encyclopedia-of-business-ethics-and-society-2e"
         }, 
         "status": {
           "en-US": "Active"
@@ -10662,10 +11042,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -10928,10 +11308,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -10966,10 +11346,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -11004,10 +11384,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -11726,10 +12106,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -11878,10 +12258,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -11992,10 +12372,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -12068,10 +12448,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -12182,10 +12562,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -12195,6 +12575,82 @@
         }, 
         "sourceId": {
           "en-US": "489"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Consumer Brand Analytics"
+        }, 
+        "key": {
+          "en-US": "cbi"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://www.consumerbrandanalytics.com"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 4989362
+        }, 
+        "sourceId": {
+          "en-US": "1826"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "CBOS-Public Opinion Research Center (dataset)"
+        }, 
+        "key": {
+          "en-US": "cbos"
+        }, 
+        "useProxy": {
+          "en-US": false
+        }, 
+        "destination": {
+          "en-US": "https://curate.nd.edu/show/0p096685m2g"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 3385736
+        }, 
+        "sourceId": {
+          "en-US": "1869"
         }
       }
     }, 
@@ -12486,10 +12942,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -12790,10 +13246,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -12866,10 +13322,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -12904,10 +13360,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -13170,10 +13626,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -13246,7 +13702,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://search.proquest.com/hnpchicagotribune/advanced?accountid=12874"
+          "en-US": "https://search.proquest.com/hnpchicagotribune?accountid=12874"
         }, 
         "status": {
           "en-US": "Active"
@@ -13351,6 +13807,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Chicago Tribune, 1985 - current"
+        }, 
+        "key": {
+          "en-US": "chictribcurrent"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://search.proquest.com/publication/46852?accountid=12874"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 2200405
+        }, 
+        "sourceId": {
+          "en-US": "1875"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Report of the Chilean National Commission on Truth and Reconciliation"
         }, 
         "key": {
@@ -13436,10 +13930,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -13563,6 +14057,44 @@
         }, 
         "sourceId": {
           "en-US": "1476"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Chinese picture story books digital library"
+        }, 
+        "key": {
+          "en-US": "chinesestorybks"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://sy.sinocomic.com/"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5071217
+        }, 
+        "sourceId": {
+          "en-US": "1857"
         }
       }
     }, 
@@ -14006,10 +14538,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -14082,10 +14614,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -14120,10 +14652,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -14158,10 +14690,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -14196,10 +14728,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -14234,10 +14766,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -14272,10 +14804,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -14310,10 +14842,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -14386,10 +14918,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -14690,10 +15222,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -14842,10 +15374,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -14880,7 +15412,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/christian-muslim-relations-i"
+          "en-US": "https://referenceworks.brillonline.com/browse/christian-muslim-relations-i"
         }, 
         "status": {
           "en-US": "Active"
@@ -14994,7 +15526,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://new.gb.oversea.cnki.net/index/"
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://new.gb.oversea.cnki.net/index/"
         }, 
         "status": {
           "en-US": "Active"
@@ -15007,6 +15539,44 @@
         }, 
         "sourceId": {
           "en-US": "1631"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "CNKI China Academic Journals - English version"
+        }, 
+        "key": {
+          "en-US": "cnkijournalscheng"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://new.oversea.cnki.net/kns/brief/result.aspx?dbPrefix=CJFQ"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 4391255
+        }, 
+        "sourceId": {
+          "en-US": "1858"
         }
       }
     }, 
@@ -15083,6 +15653,44 @@
         }, 
         "sourceId": {
           "en-US": "1580"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Cross National Time Series (CNTS) Data Archive, 2019 edition"
+        }, 
+        "key": {
+          "en-US": "cntsonline"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://www.databanksinternational.com/Data/"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 2727941
+        }, 
+        "sourceId": {
+          "en-US": "1871"
         }
       }
     }, 
@@ -15289,7 +15897,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "College blue book, 36th ed "
+          "en-US": "College blue book, 36th ed"
         }, 
         "key": {
           "en-US": "collegebluebook"
@@ -15336,10 +15944,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -15479,6 +16087,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Colecci\u00f3n Revoluci\u00f3n, 1910\u20131921"
+        }, 
+        "key": {
+          "en-US": "colrevolu"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://go.galegroup.com/gdsc/i.do?id=6CTV&v=2.1&u=nd_ref&it=aboutCollections&p=GDSC&sw=w"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5077394
+        }, 
+        "sourceId": {
+          "en-US": "1830"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Combined chemical dictionary"
         }, 
         "key": {
@@ -15526,10 +16172,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -15602,10 +16248,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -15716,10 +16362,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -15830,10 +16476,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -16096,7 +16742,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://find.galegroup.com/gdl/infomark.do?sort=DocTitle&userGroupName=nd_ref&prodId=GDL&searchType=AdvancedSearchForm&queryId=Locale(en,,):LQE=(ES,None,2)42:And:LQE=(UZ,None,4)ccod$&type=search&version=1.0&source=gale"
+          "en-US": "http://infotrac.galegroup.com/itweb/nd_ref?db=GDL"
         }, 
         "status": {
           "en-US": "Active"
@@ -16248,10 +16894,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -16299,6 +16945,44 @@
         }, 
         "sourceId": {
           "en-US": "424"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Coptic Gnostic Library Online"
+        }, 
+        "key": {
+          "en-US": "copticgnostic"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://referenceworks.brillonline.com/browse/coptic-gnostic-library"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5096185
+        }, 
+        "sourceId": {
+          "en-US": "1855"
         }
       }
     }, 
@@ -16514,10 +17198,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -16552,10 +17236,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -16587,19 +17271,19 @@
           "en-US": "cqcongress"
         }, 
         "useProxy": {
-          "en-US": true
+          "en-US": false
         }, 
         "destination": {
-          "en-US": "http://library.cqpress.com/congress"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
         }, 
         "catalogId": {
-          "en-US": 2582069
+          "en-US": null
         }, 
         "sourceId": {
           "en-US": "1037"
@@ -16628,10 +17312,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -16739,19 +17423,19 @@
           "en-US": "cqsupremecourt"
         }, 
         "useProxy": {
-          "en-US": true
+          "en-US": false
         }, 
         "destination": {
-          "en-US": "http://library.cqpress.com/scc"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
         }, 
         "catalogId": {
-          "en-US": 2582067
+          "en-US": null
         }, 
         "sourceId": {
           "en-US": "1036"
@@ -16818,10 +17502,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -16894,10 +17578,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -17008,10 +17692,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -17097,6 +17781,44 @@
         }, 
         "sourceId": {
           "en-US": "1142"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Cuartel General del Sur, 1910-1925"
+        }, 
+        "key": {
+          "en-US": "cuartgensur"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://go.galegroup.com/gdsc/i.do?id=6CTQ&v=2.1&u=nd_ref&it=aboutCollections&p=GDSC&sw=w"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5077395
+        }, 
+        "sourceId": {
+          "en-US": "1831"
         }
       }
     }, 
@@ -17274,7 +17996,7 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/login/netid/docs/report_customer_service.pdf"
+          "en-US": "https://curate.nd.edu/show/f1881j95j4t"
         }, 
         "status": {
           "en-US": "Active"
@@ -17730,10 +18452,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -17759,6 +18481,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "DeGruyter books online"
+        }, 
+        "key": {
+          "en-US": "degruyterbooks"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://www.degruyter.com/browse?type_0=books"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5099488
+        }, 
+        "sourceId": {
+          "en-US": "1867"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "DemographicsNow"
         }, 
         "key": {
@@ -17768,10 +18528,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -18215,6 +18975,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Oxford dictionary of family names in Britain and Ireland"
+        }, 
+        "key": {
+          "en-US": "dictfamnames"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://www.oxfordreference.com/view/10.1093/acref/9780199677764.001.0001/acref-9780199677764"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5096080
+        }, 
+        "sourceId": {
+          "en-US": "1846"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Dictionary of food compounds"
         }, 
         "key": {
@@ -18313,6 +19111,44 @@
         }, 
         "sourceId": {
           "en-US": "895"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Dictionnaires et synthe\u0300ses"
+        }, 
+        "key": {
+          "en-US": "dictionsyntheses"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://classiques-garnier.com/dictionnaires-et-syntheses.html"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5102436
+        }, 
+        "sourceId": {
+          "en-US": "1863"
         }
       }
     }, 
@@ -18595,6 +19431,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Dictionary of Untranslatables : a philosophical lexicon (Vocabulaire europ\u00e9en des philosophies)"
+        }, 
+        "key": {
+          "en-US": "dictuntransl"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://www.oxfordreference.com/view/10.1093/acref/9780190681166.001.0001/acref-9780190681166"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5096079
+        }, 
+        "sourceId": {
+          "en-US": "1845"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Digital Library of the Catholic Reformation"
         }, 
         "key": {
@@ -18655,6 +19529,44 @@
         }, 
         "sourceId": {
           "en-US": "253"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Gale Digital Scholar Lab (dupl. entry)"
+        }, 
+        "key": {
+          "en-US": "digitalscholarlab"
+        }, 
+        "useProxy": {
+          "en-US": false
+        }, 
+        "destination": {
+          "en-US": "https://library.nd.edu/resource-unavailable"
+        }, 
+        "status": {
+          "en-US": "Unavailable"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": null
+        }, 
+        "sourceId": {
+          "en-US": "1840"
         }
       }
     }, 
@@ -18861,7 +19773,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Gale directory of publications and broadcast media "
+          "en-US": "Gale directory of publications and broadcast media"
         }, 
         "key": {
           "en-US": "directorypubsbrdcstmedia"
@@ -18908,10 +19820,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -19098,10 +20010,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -19440,10 +20352,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -19478,10 +20390,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -20200,7 +21112,7 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/login/netid/ebooks/CE2/CE2.doc"
+          "en-US": "https://curate.nd.edu/show/zw12z32067b"
         }, 
         "status": {
           "en-US": "Active"
@@ -20305,7 +21217,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Ebrary academic complete"
+          "en-US": "Ebrary academic complete (cancelled with 6/30/19)"
         }, 
         "key": {
           "en-US": "ebraryacadcomp"
@@ -20314,10 +21226,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -20352,10 +21264,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/databases/ebrary_FAQ.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -20390,10 +21302,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -20479,6 +21391,158 @@
         }, 
         "sourceId": {
           "en-US": "1164"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "European Colonialism in the Early 20th Century: French Colonialism in Africa: From Algeria to Madagascar, 1910-1930"
+        }, 
+        "key": {
+          "en-US": "ec20thfrench"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://go.galegroup.com/gdsc/i.do?id=6TZF&v=2.1&u=nd_ref&it=aboutCollections&p=GDSC&sw=w"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5096557
+        }, 
+        "sourceId": {
+          "en-US": "1836"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "European Colonialism in Early 20th Century: German Colonies-League of Nations Mandates in Africa"
+        }, 
+        "key": {
+          "en-US": "ec20thgerman"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://go.galegroup.com/gdsc/i.do?id=6SCR&v=2.1&u=nd_ref&it=aboutCollections&p=GDSC&sw=w"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5096558
+        }, 
+        "sourceId": {
+          "en-US": "1834"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "European Colonialism in the Early 20th Century: Italian Colonies in North Africa and Aggression in East Africa, 1930-1939"
+        }, 
+        "key": {
+          "en-US": "ec20thitalian"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://go.galegroup.com/gdsc/i.do?id=6TZG&v=2.1&u=nd_ref&it=aboutCollections&p=GDSC&sw=w"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5096559
+        }, 
+        "sourceId": {
+          "en-US": "1835"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "European Colonialism in the Early 20th Century: Political and Economic Consolidation of Portuguese Colonies in Africa, 1910-1929"
+        }, 
+        "key": {
+          "en-US": "ec20thportugese"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://go.galegroup.com/gdsc/i.do?id=6TZE&v=2.1&u=nd_ref&it=aboutCollections&p=GDSC&sw=w"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5096560
+        }, 
+        "sourceId": {
+          "en-US": "1837"
         }
       }
     }, 
@@ -20770,10 +21834,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -20808,10 +21872,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -20897,6 +21961,44 @@
         }, 
         "sourceId": {
           "en-US": "1795"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "\u00c9crivains francophones d'aujourd'hui"
+        }, 
+        "key": {
+          "en-US": "ecrivanfrancophones"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://classiques-garnier.com/ecrivains-francophones-d-aujourd-hui.html"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5102441
+        }, 
+        "sourceId": {
+          "en-US": "1865"
         }
       }
     }, 
@@ -21036,10 +22138,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -21150,7 +22252,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://eebo.chadwyck.com"
+          "en-US": "https://search.proquest.com/eebo"
         }, 
         "status": {
           "en-US": "Active"
@@ -21454,10 +22556,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -21492,10 +22594,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -21872,10 +22974,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -21986,7 +23088,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/encyclopedia-of-ancient-greek-language-and-linguistics"
+          "en-US": "https://referenceworks.brillonline.com/browse/encyclopedia-of-ancient-greek-language-and-linguistics"
         }, 
         "status": {
           "en-US": "Active"
@@ -22024,7 +23126,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://find.galegroup.com/gdl/infomark.do?serQuery=Locale%2528en%252C%252C%2529%253AFQE%253D%2528JX%252CNone%252C59%2529%2522Encyclopedia%2Bof%2BAssociations%253A%2BInternational%2BOrganizations%2522%253AAnd%253ALQE%253D%2528LC%252CNone%252C6%2529nd_ref%2524&queryType=PH&type=pubIssues&tabID=T023&CPUBValue=2MOX&prodId=GDL&currentPosition=1&version=1.0&userGroupName=nd_ref&source=gale"
+          "en-US": "http://infotrac.galegroup.com/itweb/nd_ref?db=GDL"
         }, 
         "status": {
           "en-US": "Active"
@@ -22062,7 +23164,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://find.galegroup.com/gdl/infomark.do?serQuery=Locale%2528en%252C%252C%2529%253AFQE%253D%2528JX%252CNone%252C66%2529%2522Encyclopedia%2Bof%2BAssociations%253A%2BNational%2BOrganizations%2Bof%2Bthe%2BU.S.%2522%253AAnd%253ALQE%253D%2528LC%252CNone%252C6%2529nd_ref%2524&queryType=PH&type=pubIssues&tabID=T024&CPUBValue=2MOZ&prodId=GDL&currentPosition=1&version=1.0&userGroupName=nd_ref&source=gale"
+          "en-US": "http://infotrac.galegroup.com/itweb/nd_ref?db=GDL"
         }, 
         "status": {
           "en-US": "Active"
@@ -22176,10 +23278,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -22214,7 +23316,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/dead-sea-scrolls-electronic-library-biblical-texts"
+          "en-US": "https://referenceworks.brillonline.com/browse/dead-sea-scrolls-electronic-library-biblical-texts"
         }, 
         "status": {
           "en-US": "Active"
@@ -22290,7 +23392,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/encyclopedia-of-early-modern-history-online"
+          "en-US": "https://referenceworks.brillonline.com/browse/encyclopedia-of-early-modern-history-online"
         }, 
         "status": {
           "en-US": "Active"
@@ -22889,7 +23991,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Encyclopedia of Hebrew language and linguistics online "
+          "en-US": "Encyclopedia of Hebrew language and linguistics online"
         }, 
         "key": {
           "en-US": "encycheblangling"
@@ -22898,7 +24000,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/encyclopedia-of-hebrew-language-and-linguistics"
+          "en-US": "https://referenceworks.brillonline.com/browse/encyclopedia-of-hebrew-language-and-linguistics"
         }, 
         "status": {
           "en-US": "Active"
@@ -23079,7 +24181,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Encyclopaedia of Islam 2nd. ed (Brill)"
+          "en-US": "Encyclopaedia of Islam 3rd. ed (Brill)"
         }, 
         "key": {
           "en-US": "encycislambrill"
@@ -23088,7 +24190,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-2"
+          "en-US": "https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-3"
         }, 
         "status": {
           "en-US": "Active"
@@ -23117,7 +24219,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Encyclopaedia of Islam 3rd ed. (Brill)"
+          "en-US": "Encyclopaedia of Islam 2nd ed. (Brill) (dupl. entry)"
         }, 
         "key": {
           "en-US": "encycislambrill3"
@@ -23135,7 +24237,7 @@
           "en-US": "Electronic Resources"
         }, 
         "catalogId": {
-          "en-US": 3275422
+          "en-US": 3273938
         }, 
         "sourceId": {
           "en-US": "1226"
@@ -23164,7 +24266,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/encyclopaedia-islamica"
+          "en-US": "https://referenceworks.brillonline.com/browse/encyclopaedia-islamica"
         }, 
         "status": {
           "en-US": "Active"
@@ -24076,7 +25178,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/encyclopaedia-of-the-quran"
+          "en-US": "https://referenceworks.brillonline.com/browse/encyclopaedia-of-the-quran"
         }, 
         "status": {
           "en-US": "Active"
@@ -24279,6 +25381,44 @@
         }, 
         "sourceId": {
           "en-US": "1048"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Oxford encyclopedia of crime, media, and popular culture"
+        }, 
+        "key": {
+          "en-US": "encycrimemedia"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://www.oxfordreference.com/view/10.1093/acref/9780190494674.001.0001/acref-9780190494674"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5096081
+        }, 
+        "sourceId": {
+          "en-US": "1847"
         }
       }
     }, 
@@ -24684,10 +25824,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -24722,10 +25862,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -25102,10 +26242,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -25283,7 +26423,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Entrepreneurial studies source (INSPIRE database - EBSCO) "
+          "en-US": "Entrepreneurial studies source (INSPIRE database - EBSCO)"
         }, 
         "key": {
           "en-US": "entrepreneurialss"
@@ -25368,10 +26508,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -25406,10 +26546,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -25482,10 +26622,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -25672,10 +26812,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -26052,10 +27192,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -26204,10 +27344,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -26271,7 +27411,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Eyewitness companions: Film  "
+          "en-US": "Eyewitness companions: Film"
         }, 
         "key": {
           "en-US": "eyewitnessfilm"
@@ -26293,6 +27433,44 @@
         }, 
         "sourceId": {
           "en-US": "1099"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Emiliano Zapata, 1901-1919"
+        }, 
+        "key": {
+          "en-US": "ezapata"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://go.galegroup.com/gdsc/i.do?id=6CTU&v=2.1&u=nd_ref&it=aboutCollections&p=GDSC&sw=w"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5077578
+        }, 
+        "sourceId": {
+          "en-US": "1832"
         }
       }
     }, 
@@ -26356,10 +27534,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -26470,10 +27648,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -26584,16 +27762,16 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
         }, 
         "catalogId": {
-          "en-US": 1774622
+          "en-US": null
         }, 
         "sourceId": {
           "en-US": "126"
@@ -26736,10 +27914,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -26926,10 +28104,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -27040,10 +28218,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -27259,6 +28437,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Focus Economics (Consensus Foerecast Central America and Latin America)"
+        }, 
+        "key": {
+          "en-US": "focuseconomics"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://portal.focus-economics.com/"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5066946
+        }, 
+        "sourceId": {
+          "en-US": "1853"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Foreign Office files for the Middle East, 1971-1981"
         }, 
         "key": {
@@ -27344,10 +28560,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -27829,6 +29045,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "American historical periodicals of the American Antiquarian Society"
+        }, 
+        "key": {
+          "en-US": "galehistperiodicals"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://infotrac.galegroup.com/itweb/nd_ref?db=AAHP"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5096926
+        }, 
+        "sourceId": {
+          "en-US": "1839"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Gale researcher"
         }, 
         "key": {
@@ -27876,10 +29130,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -27914,10 +29168,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -28066,10 +29320,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -28142,10 +29396,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -28171,7 +29425,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": " Gender Jurisprudence and International Criminal Law Project "
+          "en-US": "Gender Jurisprudence and International Criminal Law Project"
         }, 
         "key": {
           "en-US": "genderjurisprudence"
@@ -28674,10 +29928,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -28741,7 +29995,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Global directory of peace studies and conflict resolution programs (7th ed.) "
+          "en-US": "Global directory of peace studies and conflict resolution programs (7th ed.)"
         }, 
         "key": {
           "en-US": "globaldirectpeacestudies"
@@ -28750,16 +30004,16 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
         }, 
         "catalogId": {
-          "en-US": 2634417
+          "en-US": null
         }, 
         "sourceId": {
           "en-US": "1234"
@@ -29016,10 +30270,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -29130,7 +30384,7 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://scholar.google.com"
+          "en-US": "https://scholar.google.com/scholar?inst=14796647662521683374"
         }, 
         "status": {
           "en-US": "Active"
@@ -29206,10 +30460,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -29311,7 +30565,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Grand Tour "
+          "en-US": "Grand Tour"
         }, 
         "key": {
           "en-US": "grandtour"
@@ -29396,10 +30650,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -29434,10 +30688,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -29510,10 +30764,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -29776,7 +31030,7 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://library.nd.edu/secure/guidestar"
+          "en-US": "https://curate.nd.edu/show/1j92g735427"
         }, 
         "status": {
           "en-US": "Active"
@@ -29814,7 +31068,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://www.guidestar.org"
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://www.guidestar.org/search#"
         }, 
         "status": {
           "en-US": "Active"
@@ -30498,10 +31752,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -30565,7 +31819,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Past masters : Hegel: Werke II "
+          "en-US": "Past masters : Hegel: Werke II"
         }, 
         "key": {
           "en-US": "hegel2"
@@ -30831,7 +32085,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Hispanic American newspapers "
+          "en-US": "Hispanic American newspapers"
         }, 
         "key": {
           "en-US": "hispanicamernews"
@@ -31410,10 +32664,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -31714,10 +32968,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -31828,10 +33082,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -32208,10 +33462,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -32503,6 +33757,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Inorganic Crystal Structure Database"
+        }, 
+        "key": {
+          "en-US": "ICSD"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://icsd.fiz-karlsruhe.de"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 4759091
+        }, 
+        "sourceId": {
+          "en-US": "1825"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "IEEE Vision for smart grid controls: 2030 and beyond"
         }, 
         "key": {
@@ -32588,10 +33880,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -32693,7 +33985,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "IEEE-Wiley eBooks Library "
+          "en-US": "IEEE-Wiley eBooks Library"
         }, 
         "key": {
           "en-US": "ieeewileyeebooks"
@@ -32965,7 +34257,7 @@
           "en-US": "ill"
         }, 
         "useProxy": {
-          "en-US": false
+          "en-US": true
         }, 
         "destination": {
           "en-US": "https://nd.illiad.oclc.org/illiad/IND/illiad.dll"
@@ -33272,7 +34564,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://jcr.incites.thomsonreuters.com"
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://jcr.clarivate.com"
         }, 
         "status": {
           "en-US": "Active"
@@ -33301,7 +34593,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Independent voices"
+          "en-US": "Independent voices (Reveal Digital)"
         }, 
         "key": {
           "en-US": "independentvoices"
@@ -33500,10 +34792,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -33719,7 +35011,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Industrial Statistics Database "
+          "en-US": "Industrial Statistics Database"
         }, 
         "key": {
           "en-US": "industrialstats"
@@ -33728,10 +35020,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -33956,10 +35248,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -34099,7 +35391,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "International law e-books "
+          "en-US": "International law e-books"
         }, 
         "key": {
           "en-US": "interantionallaw"
@@ -34108,10 +35400,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -34184,10 +35476,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -34251,7 +35543,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "International Aristotle bibliography online "
+          "en-US": "International Aristotle bibliography online"
         }, 
         "key": {
           "en-US": "intlaristotlebiblio"
@@ -34450,7 +35742,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com//browse/international-year-book-and-statesmens-who-s-who"
+          "en-US": "https://referenceworks.brillonline.com/browse/international-year-book-and-statesmens-who-s-who"
         }, 
         "status": {
           "en-US": "Active"
@@ -34463,6 +35755,44 @@
         }, 
         "sourceId": {
           "en-US": "950"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "International Studies Encyclopedia"
+        }, 
+        "key": {
+          "en-US": "intlstudiesencyc"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://www.oxfordreference.com/view/10.1093/acref/9780191842665.001.0001/acref-9780191842665"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5096082
+        }, 
+        "sourceId": {
+          "en-US": "1848"
         }
       }
     }, 
@@ -34830,10 +36160,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -34868,10 +36198,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -35134,10 +36464,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -35172,7 +36502,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://www.itergateway.org/resources"
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://italicum.itergateway.org"
         }, 
         "status": {
           "en-US": "Active"
@@ -35210,7 +36540,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://cf.itergateway.org/italicum"
+          "en-US": "https://italicum.itergateway.org/"
         }, 
         "status": {
           "en-US": "Active"
@@ -35324,7 +36654,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/brill-s-new-jacoby"
+          "en-US": "https://referenceworks.brillonline.com/browse/brill-s-new-jacoby"
         }, 
         "status": {
           "en-US": "Active"
@@ -35362,10 +36692,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -35476,10 +36806,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -35628,10 +36958,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -35885,7 +37215,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Papers of Thomas Jefferson digital edition "
+          "en-US": "Papers of Thomas Jefferson digital edition"
         }, 
         "key": {
           "en-US": "jeffersonpapers"
@@ -35932,10 +37262,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -36046,10 +37376,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -36274,10 +37604,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -36616,10 +37946,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -36692,7 +38022,7 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/login/netid/ebooks/karlrahner/investigations.pdf"
+          "en-US": "https://curate.nd.edu/show/rj430290c0p"
         }, 
         "status": {
           "en-US": "Active"
@@ -36730,10 +38060,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -37063,7 +38393,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "KLAPP online (Bibliographie der Franz\u00f6sischen Literaturwissenschaft) "
+          "en-US": "KLAPP online (Bibliographie der Franz\u00f6sischen Literaturwissenschaft)"
         }, 
         "key": {
           "en-US": "klapp"
@@ -37367,6 +38697,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Kotar Library"
+        }, 
+        "key": {
+          "en-US": "kotar"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://kotar.cet.ac.il"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5014364
+        }, 
+        "sourceId": {
+          "en-US": "1854"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Kraus Curriculum Development Library Cumulative Index"
         }, 
         "key": {
@@ -37376,10 +38744,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -37908,10 +39276,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -38165,7 +39533,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Latin American & Spanish Videos Freely Available on the Internet: A Guide to Web Sources  "
+          "en-US": "Latin American & Spanish Videos Freely Available on the Internet: A Guide to Web Sources"
         }, 
         "key": {
           "en-US": "latamerspanishvideo"
@@ -38554,10 +39922,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -38703,10 +40071,10 @@
           "en-US": "legaltrac"
         }, 
         "useProxy": {
-          "en-US": true
+          "en-US": false
         }, 
         "destination": {
-          "en-US": "http://infotrac.galegroup.com/itweb/nd_ref?db=LT"
+          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
         }, 
         "status": {
           "en-US": "Active"
@@ -38887,7 +40255,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Letters of Christina Rossetti "
+          "en-US": "Letters of Christina Rossetti"
         }, 
         "key": {
           "en-US": "letterschristinarossetti"
@@ -38972,7 +40340,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/lexicon-of-greek-grammarians-of-antiquity"
+          "en-US": "https://referenceworks.brillonline.com/browse/lexicon-of-greek-grammarians-of-antiquity"
         }, 
         "status": {
           "en-US": "Active"
@@ -39099,6 +40467,44 @@
         }, 
         "sourceId": {
           "en-US": "1815"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Liberia and the U.S.: Nation-Building in Africa 1918-1935"
+        }, 
+        "key": {
+          "en-US": "liberiaftica"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://go.galegroup.com/gdsc/i.do?id=6TZI&v=2.1&u=nd_ref&it=aboutCollections&p=GDSC&sw=w"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5906561
+        }, 
+        "sourceId": {
+          "en-US": "1833"
         }
       }
     }, 
@@ -39267,25 +40673,25 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "LibraryMusicSource.com"
+          "en-US": "LibraryMusicSource.com  (canceled w/3/2019)"
         }, 
         "key": {
           "en-US": "librarymusic"
         }, 
         "useProxy": {
-          "en-US": true
+          "en-US": false
         }, 
         "destination": {
-          "en-US": "http://www.librarymusicsource.com"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
         }, 
         "catalogId": {
-          "en-US": 2728823
+          "en-US": null
         }, 
         "sourceId": {
           "en-US": "1101"
@@ -39352,10 +40758,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -39656,10 +41062,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -39881,19 +41287,19 @@
           "en-US": "litresearchguide"
         }, 
         "useProxy": {
-          "en-US": true
+          "en-US": false
         }, 
         "destination": {
-          "en-US": "http://www.mlalrg.org/"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
         }, 
         "catalogId": {
-          "en-US": 2578297
+          "en-US": null
         }, 
         "sourceId": {
           "en-US": "1047"
@@ -40758,10 +42164,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -40910,10 +42316,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -40948,10 +42354,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -41062,10 +42468,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -41100,10 +42506,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -41404,10 +42810,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -41556,10 +42962,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -41898,10 +43304,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -42161,10 +43567,10 @@
           "en-US": "mergermetrics"
         }, 
         "useProxy": {
-          "en-US": true
+          "en-US": false
         }, 
         "destination": {
-          "en-US": "https://www.mergermetrics.com"
+          "en-US": "https://library.nd.edu/factset-mergers"
         }, 
         "status": {
           "en-US": "Active"
@@ -42316,10 +43722,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -42468,10 +43874,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -42620,7 +44026,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://cf.itergateway.org/mrts/milton/"
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://milton.itergateway.org"
         }, 
         "status": {
           "en-US": "Active"
@@ -42696,10 +44102,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -42883,10 +44289,10 @@
           "en-US": "mlabibliography"
         }, 
         "useProxy": {
-          "en-US": true
+          "en-US": false
         }, 
         "destination": {
-          "en-US": "http://search.proquest.com/mlaib/advanced?accountid=12874"
+          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
         }, 
         "status": {
           "en-US": "Active"
@@ -42895,7 +44301,7 @@
           "en-US": "Electronic Resources"
         }, 
         "catalogId": {
-          "en-US": 2124401
+          "en-US": null
         }, 
         "sourceId": {
           "en-US": "208"
@@ -42953,7 +44359,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "MLA Directory of Periodicals"
+          "en-US": "MLA Directory of Periodicals (EBSCO)"
         }, 
         "key": {
           "en-US": "mlaperiodicals"
@@ -42962,7 +44368,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://search.proquest.com/mladop/advanced?accountid=12874"
+          "en-US": "https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=notre&profile=ehost&defaultdb=mzh&groupid=main"
         }, 
         "status": {
           "en-US": "Active"
@@ -42971,7 +44377,7 @@
           "en-US": "Electronic Resources"
         }, 
         "catalogId": {
-          "en-US": null
+          "en-US": 2124401
         }, 
         "sourceId": {
           "en-US": "616"
@@ -42997,10 +44403,10 @@
           "en-US": "mla_csa"
         }, 
         "useProxy": {
-          "en-US": true
+          "en-US": false
         }, 
         "destination": {
-          "en-US": "http://search.proquest.com/mlaib?accountid=12874"
+          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
         }, 
         "status": {
           "en-US": "Active"
@@ -43456,10 +44862,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -43722,7 +45128,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://www.musicanet.org"
+          "en-US": "http://www.musicanet.org/en"
         }, 
         "status": {
           "en-US": "Active"
@@ -43760,10 +45166,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -44064,10 +45470,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -44102,10 +45508,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -44178,7 +45584,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://find.galegroup.com/gdl/infomark.do?serQuery=Locale%2528en%252C%252C%2529%253AFQE%253D%2528JX%252CNone%252C28%2529%2522National%2BFaculty%2BDirectory%2522%253AAnd%253ALQE%253D%2528LC%252CNone%252C6%2529nd_ref%2524&queryType=PH&type=pubIssues&tabID=T048&CPUBValue=2VNO&prodId=GDL&currentPosition=1&version=1.0&userGroupName=nd_ref&source=gale"
+          "en-US": "http://infotrac.galegroup.com/itweb/nd_ref?db=GDL"
         }, 
         "status": {
           "en-US": "Active"
@@ -44444,10 +45850,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -44482,10 +45888,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -44634,10 +46040,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -44672,10 +46078,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -44710,10 +46116,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -44748,10 +46154,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -44786,10 +46192,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -44824,10 +46230,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -44900,10 +46306,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -45347,7 +46753,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "New York Tribune, 1841-1963 (ProQuest Historical newspapers) "
+          "en-US": "New York Tribune, 1841-1963 (ProQuest Historical newspapers)"
         }, 
         "key": {
           "en-US": "newyorktribune"
@@ -45369,6 +46775,44 @@
         }, 
         "sourceId": {
           "en-US": "1002"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "17th and 18th century Nichols newspapers collection"
+        }, 
+        "key": {
+          "en-US": "nicn"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://infotrac.galegroup.com/itweb/nd_ref?db=NICN"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5077391
+        }, 
+        "sourceId": {
+          "en-US": "1838"
         }
       }
     }, 
@@ -45423,7 +46867,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Nielsen Data "
+          "en-US": "Nielsen Data"
         }, 
         "key": {
           "en-US": "nielsendata"
@@ -45432,7 +46876,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://themp.org"
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://marketingdata.chicagobooth.edu/Anonymous/Welcome"
         }, 
         "status": {
           "en-US": "Active"
@@ -45546,10 +46990,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -46154,10 +47598,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -46192,10 +47636,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -46563,6 +48007,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Oxford bibliographies online. African American studies"
+        }, 
+        "key": {
+          "en-US": "oboafricanamerstud"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://www.oxfordbibliographies.com/browse?module_0=obo-9780190280024"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5109317
+        }, 
+        "sourceId": {
+          "en-US": "1861"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Oxford bibliographies online. African studies"
         }, 
         "key": {
@@ -46905,6 +48387,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Oxford bibliographies online. Criminology"
+        }, 
+        "key": {
+          "en-US": "obocriminology"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://www.oxfordbibliographies.com/browse?module_0=obo-9780195396607"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5109306
+        }, 
+        "sourceId": {
+          "en-US": "1859"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Oxford bibliographies online. Ecology"
         }, 
         "key": {
@@ -47231,6 +48751,44 @@
         }, 
         "sourceId": {
           "en-US": "1296"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Oxford bibliographies online. Latino studies"
+        }, 
+        "key": {
+          "en-US": "obolatinostud"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://www.oxfordbibliographies.com/browse?module_0=obo-9780199913701"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5109313
+        }, 
+        "sourceId": {
+          "en-US": "1860"
         }
       }
     }, 
@@ -47931,6 +49489,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Ogonek digital archive"
+        }, 
+        "key": {
+          "en-US": "ogonekarchive"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://dlib.eastview.com/browse/udb/3030"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5061061
+        }, 
+        "sourceId": {
+          "en-US": "1827"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Oxford Handbooks Online"
         }, 
         "key": {
@@ -47975,10 +49571,10 @@
           "en-US": "ohoarchaeology"
         }, 
         "useProxy": {
-          "en-US": false
+          "en-US": true
         }, 
         "destination": {
-          "en-US": "http://www.oxfordhandbooks.com/browse?btog=book&pageSize=10&sort=titlesort&t0=ORR%3AAHU00020"
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://www.oxfordhandbooks.com/browse?btog=book&pageSize=10&sort=titlesort&t0=ORR%3AAHU00020"
         }, 
         "status": {
           "en-US": "Active"
@@ -48029,6 +49625,44 @@
         }, 
         "sourceId": {
           "en-US": "1617"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Oxford handbooks online. Economics and finance"
+        }, 
+        "key": {
+          "en-US": "ohoeconomics"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://www.oxfordhandbooks.com/browse?btog=chap&pageSize=20&sort=onlinepubdatedescending&t0=ORR%3ASOC00720"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5095815
+        }, 
+        "sourceId": {
+          "en-US": "1829"
         }
       }
     }, 
@@ -48130,10 +49764,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -48244,10 +49878,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -48311,7 +49945,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "National consumer study (via Simmons OneView)"
+          "en-US": "Simmons Insights (was Simmons OneView)"
         }, 
         "key": {
           "en-US": "oneview"
@@ -48320,7 +49954,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "https://oneview.simmonsresearch.com/UniversityAccess?uid=5310"
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://simmonsinsights.com/university/nd"
         }, 
         "status": {
           "en-US": "Active"
@@ -48510,7 +50144,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "https://www.taylorfrancis.com/books/e/9781351247177"
+          "en-US": "http://www.tandfebooks.com/isbn/9781439850992"
         }, 
         "status": {
           "en-US": "Active"
@@ -49527,6 +51161,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Oxford encyclopedia of empirical international relations theory"
+        }, 
+        "key": {
+          "en-US": "oxeencyreltheory"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://www.oxfordreference.com/view/10.1093/acref/9780190632588.001.0001/acref-9780190632588"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5096083
+        }, 
+        "sourceId": {
+          "en-US": "1849"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Oxford encyclopedia of economic history"
         }, 
         "key": {
@@ -49565,7 +51237,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Oxford encyclopedia of theatre and performance "
+          "en-US": "Oxford encyclopedia of theatre and performance"
         }, 
         "key": {
           "en-US": "oxencyctheatreperform"
@@ -49587,6 +51259,44 @@
         }, 
         "sourceId": {
           "en-US": "1094"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Oxford encyclopedia of foreign policy analysis"
+        }, 
+        "key": {
+          "en-US": "oxencyforeignpol"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://www.oxfordreference.com/view/10.1093/acref/9780190463045.001.0001/acref-9780190463045"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 4864940
+        }, 
+        "sourceId": {
+          "en-US": "1850"
         }
       }
     }, 
@@ -49913,13 +51623,13 @@
           "en-US": "oxforddictionaries"
         }, 
         "useProxy": {
-          "en-US": true
+          "en-US": false
         }, 
         "destination": {
-          "en-US": "http://premium.oxforddictionaries.com/us/"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -49967,6 +51677,44 @@
         }, 
         "sourceId": {
           "en-US": "463"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Oxford Economics : Global economic databank"
+        }, 
+        "key": {
+          "en-US": "oxfordecon"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://www.oxfordeconomics.com"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5068952
+        }, 
+        "sourceId": {
+          "en-US": "1870"
         }
       }
     }, 
@@ -50714,10 +52462,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -50828,10 +52576,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -50904,10 +52652,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -51322,10 +53070,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -51503,7 +53251,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Ren min ri bao = People's Daily (1946-present) "
+          "en-US": "Ren min ri bao = People's Daily (1946-present)"
         }, 
         "key": {
           "en-US": "peoplesdaily"
@@ -51550,10 +53298,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -52006,10 +53754,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -52044,10 +53792,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -52082,10 +53830,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -52120,10 +53868,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -52158,10 +53906,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -52196,10 +53944,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -52652,7 +54400,7 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://library.nd.edu/secure/village-potential-statistics-dataset"
+          "en-US": "https://curate.nd.edu/show/4t64gm83b30"
         }, 
         "status": {
           "en-US": "Active"
@@ -52741,6 +54489,44 @@
         }, 
         "sourceId": {
           "en-US": "1292"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Policy File Index"
+        }, 
+        "key": {
+          "en-US": "policyfile"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://search.proquest.com/policyfile/advanced/fromDatabasesLayer?accountid=12874"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5111769
+        }, 
+        "sourceId": {
+          "en-US": "1862"
         }
       }
     }, 
@@ -52918,16 +54704,16 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
         }, 
         "catalogId": {
-          "en-US": 1751694
+          "en-US": null
         }, 
         "sourceId": {
           "en-US": "247"
@@ -53184,7 +54970,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://ebookcentral.proquest.com/lib/ndlib-ebooks/search.action"
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://ebookcentral.proquest.com/lib/ndlib-ebooks/"
         }, 
         "status": {
           "en-US": "Active"
@@ -53479,6 +55265,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Preqin private equity"
+        }, 
+        "key": {
+          "en-US": "preqin"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://www.preqin.com/login.aspx?al=true&userid=196085&c=394169"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 2718626
+        }, 
+        "sourceId": {
+          "en-US": "1874"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Presidential recordings of Lyndon B. Johnson"
         }, 
         "key": {
@@ -53564,10 +55388,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -53669,6 +55493,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Princeton Dictionary of Buddhism"
+        }, 
+        "key": {
+          "en-US": "princedictbudh"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=http://www.oxfordreference.com/view/10.1093/acref/9780190681159.001.0001/acref-9780190681159"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5096084
+        }, 
+        "sourceId": {
+          "en-US": "1851"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "In Principio (Online)"
         }, 
         "key": {
@@ -53716,10 +55578,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -53944,10 +55806,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -54172,10 +56034,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -54628,10 +56490,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -55274,7 +57136,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/religion-past-and-present"
+          "en-US": "https://referenceworks.brillonline.com/browse/religion-past-and-present"
         }, 
         "status": {
           "en-US": "Active"
@@ -55388,10 +57250,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -55464,10 +57326,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -55502,10 +57364,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -55692,10 +57554,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -56034,10 +57896,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -56072,10 +57934,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -56148,10 +58010,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -56519,7 +58381,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Recent Researches in Music Online"
+          "en-US": "Recent Researches in Music Online (RRIMO)"
         }, 
         "key": {
           "en-US": "rrimo"
@@ -56528,7 +58390,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://rrimo.com/"
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://rrimo.com/"
         }, 
         "status": {
           "en-US": "Active"
@@ -56756,10 +58618,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -56946,7 +58808,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/sacramentum-mundi"
+          "en-US": "https://referenceworks.brillonline.com/browse/sacramentum-mundi"
         }, 
         "status": {
           "en-US": "Active"
@@ -56981,13 +58843,13 @@
           "en-US": "safaritech"
         }, 
         "useProxy": {
-          "en-US": true
+          "en-US": false
         }, 
         "destination": {
-          "en-US": "http://proquest.safaribooksonline.com/?uicode=und"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -57393,6 +59255,44 @@
       }, 
       "fields": {
         "title": {
+          "en-US": "Digital Scholar Lab from Gale"
+        }, 
+        "key": {
+          "en-US": "scholarlab"
+        }, 
+        "useProxy": {
+          "en-US": false
+        }, 
+        "destination": {
+          "en-US": "https://library.nd.edu/secure/digitalscholarlab"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5078327
+        }, 
+        "sourceId": {
+          "en-US": "1852"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
           "en-US": "Catalogue de l'\u00c9cole biblique et arch\u00e9ologique fran\u00e7aise de J\u00e9rusalem Catalogue of the French Biblical and Archaeological School of Jerusalem."
         }, 
         "key": {
@@ -57402,10 +59302,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -57583,7 +59483,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Science in Context (INSPIRE database - Gale) (formerly Science resource center) "
+          "en-US": "Science in Context (INSPIRE database - Gale) (formerly Science resource center)"
         }, 
         "key": {
           "en-US": "scienceresourcectr"
@@ -57668,16 +59568,16 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/databases/scifinderweb.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
         }, 
         "catalogId": {
-          "en-US": 1688561
+          "en-US": null
         }, 
         "sourceId": {
           "en-US": "705"
@@ -57972,10 +59872,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -58770,16 +60670,16 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://www.sidic.org/en/reviewEn.asp"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
         }, 
         "catalogId": {
-          "en-US": 2100584
+          "en-US": null
         }, 
         "sourceId": {
           "en-US": "564"
@@ -59036,7 +60936,7 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/databases_docs/siku/sikuquanshu.shtml"
+          "en-US": "https://library.nd.edu/secure/siku"
         }, 
         "status": {
           "en-US": "Active"
@@ -59521,7 +61421,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Social History of Crime and Punishment in America: an Encyclopedia "
+          "en-US": "Social History of Crime and Punishment in America: an Encyclopedia"
         }, 
         "key": {
           "en-US": "sochistcrimepunish"
@@ -59948,10 +61848,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -59986,10 +61886,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -60813,7 +62713,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "South and Southeast Asian literature "
+          "en-US": "South and Southeast Asian literature"
         }, 
         "key": {
           "en-US": "sseasianlit"
@@ -61088,10 +62988,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -61655,13 +63555,13 @@
           "en-US": "talmudiclitindex"
         }, 
         "useProxy": {
-          "en-US": true
+          "en-US": false
         }, 
         "destination": {
-          "en-US": "http://lieberman-index.org"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -61696,10 +63596,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -61772,10 +63672,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -62000,10 +63900,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -62114,10 +64014,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -62380,10 +64280,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -62418,10 +64318,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -62532,7 +64432,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://online.mohr.de.proxy.library.nd.edu"
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://online.mohr.de/toledot/"
         }, 
         "status": {
           "en-US": "Active"
@@ -62836,10 +64736,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -62950,10 +64850,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -63140,7 +65040,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/textual-history-of-the-bible"
+          "en-US": "https://referenceworks.brillonline.com/browse/textual-history-of-the-bible"
         }, 
         "status": {
           "en-US": "Active"
@@ -63444,10 +65344,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -63520,10 +65420,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -63596,10 +65496,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -63634,10 +65534,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -63672,10 +65572,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -63710,10 +65610,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -63900,10 +65800,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -63938,10 +65838,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -64014,7 +65914,7 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/campus_only/vernon/Start_Vernon.html"
+          "en-US": "https://resources.library.nd.edu/documents/vernon/Start_Vernon.html"
         }, 
         "status": {
           "en-US": "Active"
@@ -64318,10 +66218,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -64432,10 +66332,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -64508,10 +66408,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -64964,10 +66864,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -65116,10 +67016,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -65183,7 +67083,7 @@
       }, 
       "fields": {
         "title": {
-          "en-US": "Wiley eBooks, 2015-2018"
+          "en-US": "Wiley eBooks, 2015-2019"
         }, 
         "key": {
           "en-US": "wileyebooks"
@@ -65205,6 +67105,44 @@
         }, 
         "sourceId": {
           "en-US": "1595"
+        }
+      }
+    }, 
+    {
+      "sys": {
+        "contentType": {
+          "sys": {
+            "linkType": "ContentType", 
+            "type": "Link", 
+            "id": "purl"
+          }
+        }, 
+        "type": "Entry"
+      }, 
+      "fields": {
+        "title": {
+          "en-US": "Wiley Online Library"
+        }, 
+        "key": {
+          "en-US": "wileyonlinelib"
+        }, 
+        "useProxy": {
+          "en-US": true
+        }, 
+        "destination": {
+          "en-US": "https://login.proxy.library.nd.edu/login?url=https://onlinelibrary.wiley.com/"
+        }, 
+        "status": {
+          "en-US": "Active"
+        }, 
+        "context": {
+          "en-US": "Electronic Resources"
+        }, 
+        "catalogId": {
+          "en-US": 5108436
+        }, 
+        "sourceId": {
+          "en-US": "1856"
         }
       }
     }, 
@@ -65648,10 +67586,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -65762,10 +67700,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -66180,10 +68118,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "https://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -66218,10 +68156,10 @@
           "en-US": false
         }, 
         "destination": {
-          "en-US": "http://eresources.library.nd.edu/unavailable.shtml"
+          "en-US": "https://library.nd.edu/resource-unavailable"
         }, 
         "status": {
-          "en-US": "Active"
+          "en-US": "Unavailable"
         }, 
         "context": {
           "en-US": "Electronic Resources"
@@ -66750,7 +68688,7 @@
           "en-US": true
         }, 
         "destination": {
-          "en-US": "http://referenceworks.brillonline.com/browse/yearbook-of-muslims-in-europe-online"
+          "en-US": "https://referenceworks.brillonline.com/browse/yearbook-of-muslims-in-europe-online"
         }, 
         "status": {
           "en-US": "Active"

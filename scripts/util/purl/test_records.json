@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6ohe2xfve1xs"
+          }
+        },
+        "id": "473NiKXrLrJbLeFqsZEYLy",
+        "type": "Entry",
+        "createdAt": "2019-02-04T18:47:00.073Z",
+        "updatedAt": "2019-09-04T15:25:48.574Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 100,
+        "publishedAt": "2019-09-04T15:25:48.574Z",
+        "firstPublishedAt": "2019-02-04T18:47:00.377Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "publishedCounter": 11,
+        "version": 101,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "709pGwuOqkC9HwcImxXsLc"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "purl"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Dummy Record for Testing - DO NOT REMOVE"
+        },
+        "key": {
+          "en-US": "test_do_not_modify"
+        },
+        "useProxy": {
+          "en-US": true
+        },
+        "destination": {
+          "en-US": "https://library.nd.edu/"
+        },
+        "status": {
+          "en-US": "Active"
+        },
+        "context": {
+          "en-US": "Electronic Resources"
+        },
+        "catalogId": {
+          "en-US": null
+        },
+        "sourceId": {
+          "en-US": "4343434"
+        }
+      }
+    }
+  ],
+  "assets": [
+  ],
+  "webhooks": [
+  ],
+  "roles": [
+  ]
+}
