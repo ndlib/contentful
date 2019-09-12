@@ -26,7 +26,6 @@
       cfExt.init(api => {
         const slugField = api.field
         const titleField = api.entry.fields.title
-        console.log('the entry', api.entry.getSys())
 
         var _ = window._;
         var debouncedUpdateStatus = _.debounce(updateStatus, 500);

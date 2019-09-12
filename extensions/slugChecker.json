@@ -1,0 +1,10 @@
+{
+  "id": "crossSlug",
+  "name": "Cross Type Slug",
+  "srcdoc": "slugChecker.html",
+  "sidebar": false,
+  "fieldTypes": [
+    "Symbol"
+  ],
+  "parameters": {}
+}

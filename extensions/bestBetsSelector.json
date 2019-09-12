@@ -1,0 +1,20 @@
+{
+  "id": "bestBetsExtension",
+  "name": "Best Bets Subject Selector",
+  "srcdoc": "bestBetsSelector.html",
+  "sidebar": false,
+  "fieldTypes": [
+    "Entries"
+  ],
+  "parameters": {
+    "instance": [
+      {
+        "id": "helpText",
+        "type": "Symbol",
+        "name": "Help text",
+        "description": "This help text will show up below the field"
+      }
+    ],
+    "installation": []
+  }
+}

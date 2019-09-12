@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<script src="https://unpkg.com/contentful-ui-extensions-sdk@3"></script>
+	</head>
+	<body>
+		<div id="extensionRoot">
+			Loading...
+		</div>
+	  <script>
+		  window.contentfulExtension.init(function(extension) {
+				console.log('init')
+		    const { field, entry, space, parameters } = extension
+				const subjectsField = entry.fields.subjects
+				const root = document.getElementById('extensionRoot')
+
+				const onCheckboxChanged = (event, subjectReference) => {
+					const oldValue = field.getValue() || []
+					const isChecked = event.target.checked
+					const valueHasSubject = oldValue.some(search => search.sys.id === subjectReference.sys.id)
+					if (isChecked && !valueHasSubject) {
+						field.setValue(oldValue.concat(subjectReference))
+					} else if (!isChecked && valueHasSubject) {
+						field.setValue(oldValue.filter(sub => sub.sys.id !== subjectReference.sys.id))
+					}
+					console.log('new value', field.getValue())
+				}
+
+				const buildCheckboxes = (fullSubjects) => {
+					root.innerHTML = ''
+
+					console.log('building')
+					const subjects = subjectsField.getValue()
+					const bestBets = field.getValue() || []
+					const subjectIds = [] // This exists purely to prevent duplicates
+					subjects.forEach(subject => {
+						// Avoid duplicates because it can create weird inconsistencies in this UI
+						if (subjectIds.includes(subject.sys.id)) {
+							continue
+						}
+
+						// Create elements we will need to display the subject
+						const div = document.createElement('div')
+						const label = document.createElement('label')
+						const checkbox = document.createElement('input')
+
+						// Prepare checkbox and add it to the label
+						checkbox.setAttribute('type', 'checkbox')
+						checkbox.checked = bestBets.some(item => item.sys.id === subject.sys.id)
+						checkbox.addEventListener('change', (event) => onCheckboxChanged(event, subject))
+						label.append(checkbox)
+
+						// Prepare label text and add it to the div container
+						const matchingSubject = fullSubjects.find(search => search.sys.id === subject.sys.id)
+						label.append(matchingSubject ? matchingSubject.fields.title['en-US'] : subject.sys.id)
+						div.append(label)
+
+						// Add this subject item to the extension's html
+						root.append(div)
+						subjectIds.push(subject.sys.id)
+					})
+				}
+
+				// This is needed because the subject field is just a reference, and does not store things like the title of
+				// the record it is referencing. We want to display an intelligible title for the user to pick best bets from.
+				console.log('calling...')
+				space.getEntries({
+					content_type: 'internalLink',
+					'fields.context': 'Subject',
+					include: 1,
+				}).then(result => {
+					console.log('got result')
+					const fullSubjects = result.items
+					// Don't create the interface before this call has finished, since it won't work otherwise
+					buildCheckboxes(fullSubjects)
+					subjectsField.onValueChanged(() => buildCheckboxes(fullSubjects))
+				}).catch((e) => {
+					root.innerHTML = 'Error! Unable to load list of subjects.'
+					console.error(e)
+				})
+		  })
+	  </script>
+	</body>
+</html>
