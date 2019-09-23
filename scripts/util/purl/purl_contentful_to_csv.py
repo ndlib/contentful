@@ -23,7 +23,7 @@ def convert(inputFilename, outputFilename):
       for fieldId in fields:
         out[fieldId] = OrderedDict()
         if fields[fieldId] == 'bool':
-          out[fieldId] = 1 if str(entry['fields'][fieldId]['en-US']) == 'true' else 0
+          out[fieldId] = 1 if entry['fields'][fieldId]['en-US'] is True else 0
         else:
           out[fieldId] = entry['fields'][fieldId]['en-US']
       out_entries.append(out)
