@@ -1,0 +1,20 @@
+{
+  "id": "multiDateExtension",
+  "name": "Multi-Date Selector",
+  "srcdoc": "multiDateSelector.html",
+  "sidebar": false,
+  "fieldTypes": [
+    "Object"
+  ],
+  "parameters": {
+    "instance": [
+      {
+        "id": "helpText",
+        "type": "Symbol",
+        "name": "Help text",
+        "description": "This help text will show up below the field"
+      }
+    ],
+    "installation": []
+  }
+}
