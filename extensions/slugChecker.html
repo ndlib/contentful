@@ -80,10 +80,10 @@
           if (!slug || slug === 'undefined') {
           	slug = null
           }
+          input.value = slug
           // Don't set the field value unless the value actually changed.
           // Otherwise the item will get marked as "changed" just by viewing it, with no changes.
           if (slug !== slugField.getValue()) {
-            input.value = slug
             slugField.setValue(slug)
           }
 
