@@ -51,7 +51,11 @@
           previousTitle = titleField.getValue()
 
         	titleField.onValueChanged(() => {
-            handleSlugChange()
+            if (!api.entry.getSys().publishedCounter && (!input.value || input.value === 'undefined' || input.value === formatAsSlug(previousTitle))) {
+              const titleValue = titleField ? titleField.getValue() : null
+              const generatedSlug = formatAsSlug(titleValue)
+              setSlug(generatedSlug)
+            }
             // Important that this is updated after the slug change
             previousTitle = titleField.getValue()
           })
@@ -65,14 +69,7 @@
          * or changing the title of the entry
          */
         function handleSlugChange () {
-          const titleValue = titleField ? titleField.getValue() : null
-          const generatedSlug = formatAsSlug(titleValue)
-          // BEFORE PULBISH: If slug field is empty, or if the slug "matched" the title previously, keep them in sync
-          const valueToSet = (!api.entry.getSys().publishedCounter && (!input.value || input.value === 'undefined' || input.value === formatAsSlug(previousTitle)))
-          	? generatedSlug
-          	: input.value
-
-          setSlug(valueToSet)
+          setSlug(input.value)
         }
 
         /**
@@ -83,8 +80,12 @@
           if (!slug || slug === 'undefined') {
           	slug = null
           }
-          input.value = slug
-          slugField.setValue(slug)
+          // Don't set the field value unless the value actually changed.
+          // Otherwise the item will get marked as "changed" just by viewing it, with no changes.
+          if (slug !== slugField.getValue()) {
+            input.value = slug
+            slugField.setValue(slug)
+          }
 
           if (slug) {
             setStatus('loading')
