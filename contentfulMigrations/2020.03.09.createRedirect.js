@@ -54,7 +54,7 @@ const forward = (migration) => {
       }
     ])
 
-  const toPathSettings = { 'helpText': 'Use this to redirect to an page which does not have a Contentful Page, Internal Link, etc. For instance, "/" would redirect to the home page of the site. Can also link out to an external site with a full url.' }
+  const toPathSettings = { 'helpText': 'Use this to redirect to a page which does not have a Contentful Page, Internal Link, etc. For instance, "/" would redirect to the home page of the site. Can also link out to an external site with a full url.' }
   redirect.changeFieldControl('toPath', 'builtin', 'singleLine', toPathSettings)
 
   redirect.createField('forwardPath')
