@@ -4,7 +4,9 @@
 const neatCsv = require('neat-csv')
 const fs = require('fs')
 
-const subjectFields = ['Subject 1', 'Subject 2', 'Subject 3', 'Subject 4', 'Subject 5', 'Best Bets']
+const subjectFields = Array(6).fill().map((val, index) => `Subject ${index+1}`)
+const bestBetFields = Array(15).fill().map((val, index) => `Best Bets ${index+1}`)
+const fieldNames = subjectFields.concat(bestBetFields)
 
 const forward = async (migration, { makeRequest }) => {
   // Fetch internalLinks since these serve as the subjects we will be associating the databases with
@@ -22,7 +24,7 @@ const forward = async (migration, { makeRequest }) => {
   const pages = fetchPages.items || []
 
   // Load the CSV file that has the data we need to populate
-  const filename = '../data/2019.11.27.databaseSubjects.csv'
+  const filename = '../data/2020.05.18.databaseSubjects.csv'
   const csvData = {}
   const csvRaw = fs.readFileSync(filename)
   const rows = await neatCsv(csvRaw)
@@ -55,7 +57,7 @@ const forward = async (migration, { makeRequest }) => {
           return
         }
         // If the row does not contain any subjects, nothing to do but skip it
-        const hasSubjects = subjectFields.some(fieldName => csvRow[fieldName])
+        const hasSubjects = fieldNames.some(fieldName => csvRow[fieldName])
         if (!hasSubjects) {
           return
         }
@@ -64,7 +66,7 @@ const forward = async (migration, { makeRequest }) => {
         const subjectRefs = []
         const bestBetRefs = []
         let multidisciplinary = fromFields.multidisciplinary ? !!fromFields.multidisciplinary[currentLocale] : false
-        subjectFields.forEach(fieldName => {
+        fieldNames.forEach(fieldName => {
           const subjectName = csvRow[fieldName]
           if (subjectName) {
             // This is a special name which will toggle the multidisciplinary boolean field
