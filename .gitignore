@@ -1,2 +1,3 @@
 contentfulMigrations/errors-**
 data/**
+node_modules
