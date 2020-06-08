@@ -1,4 +1,5 @@
 contentfulMigrations/errors-**
-errors-**
+**/errors-**
 data/**
 node_modules
+**/access_token

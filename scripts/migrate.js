@@ -6,7 +6,7 @@ const readlineSync = require("readline-sync")
 const argv = process.argv.slice(2)
 
 if (argv.length < 2) {
-  console.log('Usage: migrate <environmentId> <filePath> [spaceId] [accessToken]')
+  console.log('Usage: migrate <environmentId> <fileName> [spaceId] [accessToken]')
   process.exit()
 }
 
