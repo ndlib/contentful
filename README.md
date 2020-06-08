@@ -7,8 +7,9 @@ See [contentfulMigrations/README.md](https://github.com/ndlib/contentful/blob/ma
 
 To run a migration, first install packages with `yarn install`, then run:
 ```
-yarn migrate <environmentId> <fileName> [spaceId] [accessToken]
+yarn migrate <environmentId> <fileName> [spaceName] [accessToken]
 ```
 
-You can place your access token at the root in a file named `access_token` so you don't have to look it up every time.
-It should be in the .gitignore, but **make sure not to commit this file.**
+Will default to using `library-website` for the space if not provided.
+
+You can place your access token at the root in a file named `access_token` so you don't have to look it up every time. It should be in the .gitignore, but **make sure not to commit this file.** If this file does not exist, you will be prompted to enter a token.
