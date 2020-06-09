@@ -3,6 +3,7 @@
 // npm link neat-csv
 const neatCsv = require('neat-csv')
 const fs = require('fs')
+const path = require('path')
 
 const subjectFields = Array(6).fill().map((val, index) => `Subject ${index+1}`)
 const bestBetFields = Array(15).fill().map((val, index) => `Best Bets ${index+1}`)
@@ -24,7 +25,7 @@ const forward = async (migration, { makeRequest }) => {
   const pages = fetchPages.items || []
 
   // Load the CSV file that has the data we need to populate
-  const filename = '../data/2020.05.18.databaseSubjects.csv'
+  const filename = path.resolve(__dirname, '../data/2020.05.18.databaseSubjects.csv')
   const csvData = {}
   const csvRaw = fs.readFileSync(filename)
   const rows = await neatCsv(csvRaw)
@@ -81,7 +82,7 @@ const forward = async (migration, { makeRequest }) => {
                 return true
               }
               // Find the page the internal link references and compare subject against THAT title
-              const linkedPage = pages.find(page => page.sys.id === link.fields.page['en-US'].sys.id)
+              const linkedPage = pages.find(page => link.fields.page && page.sys.id === link.fields.page['en-US'].sys.id)
               return linkedPage && linkedPage.fields.title['en-US'].toLowerCase() === subjectName.toLowerCase()
             })
             if (match) {

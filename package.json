@@ -5,8 +5,13 @@
   "repository": "ssh://git@github.com/ndlib/contentful.git",
   "author": "WSE",
   "license": "MIT",
+  "scripts": {
+    "migrate": "node scripts/migrate.js"
+  },
   "dependencies": {
     "contentful": "^7.14.4",
-    "neat-csv": "^5.2.0"
+    "contentful-migration": "^1.1.4",
+    "neat-csv": "^5.2.0",
+    "readline-sync": "^1.4.10"
   }
 }
