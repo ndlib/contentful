@@ -3,9 +3,6 @@
   "src": "https://d2try22btdx29l.cloudfront.net/contentGrouping/index.html",
   "locations": [
     {
-      "location": "app-config"
-    },
-    {
       "location": "entry-editor"
     }
   ],
