@@ -10,6 +10,7 @@ import '@contentful/forma-36-fcss/dist/styles.css'
 import './index.css'
 
 import EntryEditor from './components/EntryEditor'
+import Config from './components/Config'
 
 init(sdk => {
   const root = document.getElementById('root')
@@ -21,6 +22,10 @@ init(sdk => {
     {
       location: locations.LOCATION_ENTRY_EDITOR,
       component: <EntryEditor sdk={sdk} />
+    },
+    {
+      location: locations.LOCATION_APP_CONFIG,
+      component: <Config sdk={sdk} />
     },
   ]
 
