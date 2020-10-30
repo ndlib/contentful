@@ -3,3 +3,4 @@ contentfulMigrations/errors-**
 data/**
 node_modules
 **/access_token
+apps/build/**/*

@@ -1,0 +1,84 @@
+html,
+body,
+div {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+.fieldGroup {
+  border-left: 3px solid rgb(211, 220, 224);
+  padding-left: 1em;
+}
+.fieldGroup:focus-within {
+  border-color: rgb(54, 122, 213);
+}
+.lockButton {
+  position: relative;
+  top: 8px;
+}
+.contentTypeListColumn {
+  float: left;
+  width: 50%;
+}
+.loadingText {
+  display: inline-block;
+  margin-left: 0.5em;
+}
+.entryList > *:not(:last-child) {
+  margin-bottom: 1rem;
+}
+.entryCard:hover {
+  border-color: #84b9f5;
+  cursor: pointer;
+}
+.missingEntryDelete {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+}
+.linkTextIcon {
+  float: right;
+  margin-left: 0.5rem;
+}
+.pillListContainer {
+  margin-top: 1rem;
+  white-space: nowrap;
+  display: flex;
+  flex-wrap: wrap;
+}
+.pillListContainer > * {
+  margin-bottom: 0.75rem;
+  margin-right: 0.75rem;
+}
+.pillIcon {
+  vertical-align: middle;
+}
+.dragHandle {
+  line-height: 1.5rem;
+  padding: 0.375rem 0.625rem;
+  padding-right: 0;
+}
+.dragHandle:hover {
+  cursor: grab;
+}
+.keyValueRow {
+  align-items: baseline;
+  display: flex;
+  vertical-align: middle;
+  margin-bottom: 1em;
+}
+.keyValueRow > *:not(:first-child) {
+  margin-left: 1em;
+}
+.keyValueDelete {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.textInputGroup {
+  display: flex;
+  align-items: baseline;
+  flex-basis: 250px;
+}
