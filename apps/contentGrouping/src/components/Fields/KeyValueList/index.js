@@ -30,7 +30,6 @@ const KeyValueList = (props) => {
           newObj[current] = props.value[current]
         }
       })
-      console.log('newObj', newObj)
       update(newObj)
     }
   }
@@ -48,7 +47,6 @@ const KeyValueList = (props) => {
   }
 
   const update = (newValue) => {
-    console.log('update', newValue)
     props.onChange({
       target: {
         value: newValue,

@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useRef } from 'react'
 import PropTypes from 'prop-types'
 import {
   FormLabel,
@@ -7,23 +7,26 @@ import {
 } from '@contentful/forma-36-react-components'
 
 const KeyValueRow = (props) => {
-  const [key, setKey] = useState(props.keyName)
-  const [value, setValue] = useState(props.value)
+  const keyRef = useRef()
+  const valueRef = useRef()
 
   const formFieldNameId = `${props.fieldId}_${props.index}_name`
   const formFieldValueId = `${props.fieldId}_${props.index}_value`
 
   const onKeyChange = (event) => {
     const newKey = event.target.value
-    if (newKey !== key) {
-      setKey(newKey)
-      props.onChange(key, newKey, value)
+    if (newKey !== props.keyName) {
+      if (valueRef.current) {
+        props.onChange(props.keyName, newKey, valueRef.current.props.value)
+      }
     }
   }
 
   const onValueChange = (event) => {
-    setValue(event.target.value)
-    props.onChange(key, key, event.target.value)
+    if (keyRef.current) {
+      const key = keyRef.current.props.value
+      props.onChange(key, key, event.target.value)
+    }
   }
 
   return (
@@ -33,10 +36,11 @@ const KeyValueRow = (props) => {
           Name:&nbsp;
         </FormLabel>
         <TextInput
+          ref={keyRef}
           id={formFieldNameId}
           name={formFieldNameId}
           type='text'
-          value={key}
+          value={props.keyName}
           onBlur={onKeyChange}
           autoComplete='off'
           data-lpignore={true}
@@ -47,10 +51,11 @@ const KeyValueRow = (props) => {
           Value:&nbsp;
         </FormLabel>
         <TextInput
+          ref={valueRef}
           id={formFieldValueId}
           name={formFieldValueId}
           type='text'
-          value={value}
+          value={props.value}
           onChange={onValueChange}
           autoComplete='off'
           data-lpignore={true}
