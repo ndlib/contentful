@@ -1,0 +1,12 @@
+{
+  "name": "Content Grouping",
+  "src": "https://d2try22btdx29l.cloudfront.net/contentGrouping/index.html",
+  "locations": [
+    {
+      "location": "entry-editor"
+    }
+  ],
+  "parameters": {
+    "instance": []
+  }
+}
