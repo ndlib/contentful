@@ -64,7 +64,7 @@ const KeyValueList = (props) => {
           {props.validationMessage}
         </ValidationMessage>
       )}
-      {keys.map((key, index) => (
+      {keys.filter(key => !props.exclude.includes(key)).map((key, index) => (
         <KeyValueRow
           key={index}
           keyName={key}
@@ -96,6 +96,7 @@ KeyValueList.propTypes = {
   type: PropTypes.oneOf(['number', 'date', 'time', 'text', 'password', 'email', 'search', 'url']),
   value: PropTypes.any.isRequired,
   onChange: PropTypes.func.isRequired,
+  exclude: PropTypes.array,
 }
 
 export default KeyValueList

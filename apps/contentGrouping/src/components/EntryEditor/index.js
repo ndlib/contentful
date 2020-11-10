@@ -15,6 +15,7 @@ import LockedTextField from '../Fields/LockedTextField'
 import ScopedItemList from '../Fields/ScopedItemList'
 import StringListField from '../Fields/StringListField'
 import KeyValueList from '../Fields/KeyValueList'
+import ExtraData from '../ExtraData'
 
 const Entry = (props) => {
   const [lastUpdate, setLastUpdate] = useState(new Date()) // eslint-disable-line no-unused-vars
@@ -66,6 +67,9 @@ const Entry = (props) => {
               {...commonProps}
             />
           )
+          break
+        case 'extraData':
+          component = <ExtraData key={control.fieldId} sdk={props.sdk} control={control} value={value} {...commonProps} />
           break
         default:
           // Use a rough equivalent of the default UI for any other fields
@@ -138,11 +142,18 @@ const Entry = (props) => {
     })
   return (
     <Workbench.Content type='text'>
-      {controls.filter(control => control.component).map(control => (
-        <FieldGroup className='f36-margin--l fieldGroup' key={control.id}>
-          {control.component}
-        </FieldGroup>
-      ))}
+      {controls.filter(control => control.component).map(control => {
+        // Don't wrap extraData in FieldGroup because it will create its own
+        if (control.id === 'extraData') {
+          return control.component
+        } else {
+          return (
+            <FieldGroup className='f36-margin--l fieldGroup' key={control.id}>
+              {control.component}
+            </FieldGroup>
+          )
+        }
+      })}
     </Workbench.Content>
   )
 }
