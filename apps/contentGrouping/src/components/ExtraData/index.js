@@ -36,7 +36,7 @@ const ExtraData = (props) => {
           id={presenterFieldId}
           name={presenterFieldId}
           labelText='Presenter Type'
-          value={props.value[presenterFieldId]}
+          value={typy(props.value, presenterFieldId).safeString}
           onChange={(event) => onFieldChange(presenterFieldId, event.target.value)}
         >
           <Option value=''>Choose a value</Option>

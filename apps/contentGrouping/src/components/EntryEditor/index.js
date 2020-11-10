@@ -84,7 +84,7 @@ const Entry = (props) => {
                     id={control.fieldId}
                     name={control.fieldId}
                     labelText={control.field.name}
-                    helpText={control.settings.helpText}
+                    helpText={typy(control, 'settings.helpText').safeString}
                     required={control.field.required}
                     value={value}
                     textInputProps={{
@@ -106,7 +106,7 @@ const Entry = (props) => {
                   id={control.fieldId}
                   name={control.fieldId}
                   labelText={control.field.name}
-                  helpText={control.settings.helpText}
+                  helpText={typy(control, 'settings.helpText').safeString}
                   required={control.field.required}
                   value={value}
                   {...commonProps}
