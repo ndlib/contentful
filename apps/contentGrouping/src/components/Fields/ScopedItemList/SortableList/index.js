@@ -17,7 +17,9 @@ const getPublishStatus = (entry) => {
     return 'archived'
   } else if (!entry.sys.publishedAt) {
     return 'draft'
-  } else if (entry.sys.updatedAt > entry.sys.publishedAt) {
+  } else if (new Date(entry.sys.updatedAt).getTime() > new Date(entry.sys.publishedAt).getTime() + (1000 * 2)) {
+    // Room for a little slop here.. Sometimes the updated at date is a few miliseconds after the published date,
+    // even though the last change was the publish itself.
     return 'changed'
   }
 
