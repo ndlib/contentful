@@ -38,7 +38,7 @@ const forward = (migration) => {
       if (outFeatures.includes('Whiteboard access')) {
         outFeatures.push('Whiteboard')
       }
-      outFeatures = outFeatures.filter(feat => feat != 'Open late')
+      outFeatures = outFeatures.filter(feat => !['Open late', 'Whiteboard access', 'Multimedia available'].includes(feat))
 
       return {
         features: outFeatures,
@@ -106,6 +106,7 @@ const reverse = (migration) => {
       if (outFeatures.includes('Whiteboard')) {
         outFeatures.push('Whiteboard access')
       }
+      outFeatures = outFeatures.filter(feat => !['Whiteboard', 'Computers'].includes(feat))
 
       return {
         features: outFeatures,
